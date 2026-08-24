@@ -2,6 +2,7 @@
 
 **Company / Org:** Swytch  
 **Challenge Advisor:** James Thompson, [jimt@swytch.careers]  
+**AI Studio Coach:** Jenna Hunte, jenna.hunte@breakthroughtech.org     
 **Program:** Break Through Tech AI Studio - Fall 2026  
 
 ---
@@ -36,16 +37,26 @@ Use these milestones to guide your work. Your team will create a GitHub Projects
 
 ---
 
-## 📊 Dataset
-**Name and Source:** General Social Survey (GSS) & O*NET Database  
+## 📊 Suggested Datasets
+**Name and Source:** General Social Survey (GSS)
 **Format:** SPSS (can read with pyreadstat library)
 **Size:** under 1gb  
-**Location:** https://gss.norc.org/get-the-data.html, https://www.onetcenter.org/database.html, https://www.onetcenter.org/crosswalks.html)
+**Location:** https://gss.norc.org/get-the-data.html
+
+**Name and Source:  O*NET Database  
+**Format:** Excel, CSV, Json, or SQL 
+**Size:** under 1gb  
+**Location:** https://www.onetcenter.org/crosswalks.html
 
 **Name and Source:** The American Job Quality Study: 2025  
 **Format:** CSV / TSV  
 **Size:** under 1gb  
-**Location:** (https://www.gallup.com/analytics/691241/american-job-quality-study.aspx)
+**Location:** https://www.gallup.com/analytics/691241/american-job-quality-study.aspx
+
+**Name and Source:** National Survey of College Graduates (NSCG): 2023  
+**Format:** Excel, CSV, or SAS (can read with pyreadstat library)
+**Size:** under 1gb  
+**Location:** https://ncses.nsf.gov/surveys/national-survey-college-graduates/2023
 
 ### Key Details
 - The core analysis combines **individual-level survey responses from the GSS** with **occupation-level information from O*NET**. The team will need to use occupation codes and the appropriate O*NET crosswalk to connect the two.
@@ -115,6 +126,7 @@ The following resources will help your team understand the problem space and pot
 ## 🤝 How We'll Work Together
 
 **Official check-ins:** During our biweekly 45-minute AI Studio Lab Section meeting block (2nd and 4th week of every month)
+I will give unsolicited suggested guidance during these meetings. I am open to any and all questions.
 
  **Other ways to reach out to me with questions:** 
 * [e.g., Your team's channel within Break Through Tech’s Discord space]
@@ -123,7 +135,7 @@ The following resources will help your team understand the problem space and pot
 * [Note: I will aim to respond within 48 hours. Please reach out to your AI Studio Coach with urgent questions.]
 
 **Recommended free coding / collaboration tools**
-* […]
+* MySQL
 * […]
 
 ---
