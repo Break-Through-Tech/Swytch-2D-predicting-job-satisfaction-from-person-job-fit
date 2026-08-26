@@ -129,14 +129,8 @@ The following resources will help your team understand the problem space and pot
 I will give unsolicited suggested guidance during these meetings. I am open to any and all questions.
 
  **Other ways to reach out to me with questions:** 
-* [e.g., Your team's channel within Break Through Tech’s Discord space]
 * jimt@swytch.careers,  jenna.hunte@breakthroughtech.org
-* [e.g., Request a team check-in on Zoom]
-* [Note: I will aim to respond within 48 hours. Please reach out to your AI Studio Coach with urgent questions.]
-
-**Recommended free coding / collaboration tools**
-* MySQL
-* […]
+* Note: I will aim to respond within 48 hours. Please reach out to your AI Studio Coach with urgent questions.
 
 ---
 
