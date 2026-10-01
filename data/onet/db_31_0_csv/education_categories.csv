@@ -1,0 +1,25 @@
+Element ID,Element Name,Scale ID,Scale Name,Category,Category Description
+2.D.1,Required Level of Education,RL,Required Level Of Education (Categories 1-12),1,Less than a High School Diploma
+2.D.1,Required Level of Education,RL,Required Level Of Education (Categories 1-12),2,High School Diploma or the equivalent (such as a GED)
+2.D.1,Required Level of Education,RL,Required Level Of Education (Categories 1-12),3,Post-Secondary Certificate
+2.D.1,Required Level of Education,RL,Required Level Of Education (Categories 1-12),4,Some College Courses
+2.D.1,Required Level of Education,RL,Required Level Of Education (Categories 1-12),5,Associate's Degree or other 2-year degree
+2.D.1,Required Level of Education,RL,Required Level Of Education (Categories 1-12),6,Bachelor's Degree
+2.D.1,Required Level of Education,RL,Required Level Of Education (Categories 1-12),7,Post-Baccalaureate Certificate
+2.D.1,Required Level of Education,RL,Required Level Of Education (Categories 1-12),8,Master's Degree
+2.D.1,Required Level of Education,RL,Required Level Of Education (Categories 1-12),9,Post-Master's Certificate
+2.D.1,Required Level of Education,RL,Required Level Of Education (Categories 1-12),10,"First Professional Degree - awarded for completion of a program that: requires at least 2 years of college work before entrance into the program, includes a total of at least 6 academic years of work to complete, and provides all remaining academic requirements to begin practice in a profession."
+2.D.1,Required Level of Education,RL,Required Level Of Education (Categories 1-12),11,Doctoral Degree
+2.D.1,Required Level of Education,RL,Required Level Of Education (Categories 1-12),12,Post-Doctoral Training
+2.D.1,Required Level of Education,RQ,Required Level Of Education (Categories 1-12),1,Less than a High School Diploma
+2.D.1,Required Level of Education,RQ,Required Level Of Education (Categories 1-12),2,High School Diploma or the equivalent (such as a GED)
+2.D.1,Required Level of Education,RQ,Required Level Of Education (Categories 1-12),3,Post-Secondary Certificate
+2.D.1,Required Level of Education,RQ,Required Level Of Education (Categories 1-12),4,Some College Courses
+2.D.1,Required Level of Education,RQ,Required Level Of Education (Categories 1-12),5,Associate's Degree or other 2-year degree
+2.D.1,Required Level of Education,RQ,Required Level Of Education (Categories 1-12),6,Bachelor's Degree
+2.D.1,Required Level of Education,RQ,Required Level Of Education (Categories 1-12),7,Post-Baccalaureate Certificate
+2.D.1,Required Level of Education,RQ,Required Level Of Education (Categories 1-12),8,Master's Degree
+2.D.1,Required Level of Education,RQ,Required Level Of Education (Categories 1-12),9,Post-Master's Certificate
+2.D.1,Required Level of Education,RQ,Required Level Of Education (Categories 1-12),10,Doctor's Degree - Professional Practice (such as a J.D. for Law or an M.D. for Medicine)
+2.D.1,Required Level of Education,RQ,Required Level Of Education (Categories 1-12),11,Doctor's Degree - Research/Scholarship (such as a Ph.D.)
+2.D.1,Required Level of Education,RQ,Required Level Of Education (Categories 1-12),12,Post-Doctoral Training

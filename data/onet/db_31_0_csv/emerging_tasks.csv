@@ -1,0 +1,339 @@
+O*NET-SOC Code,Title,Task,Category,Original Task ID,Original Task,Date,Domain Source
+11-2021.00,Marketing Managers,Review and edit content for marketing materials.,New,,,08/2026,Incumbent
+11-2022.00,Sales Managers,Coach staff on sales tactics.,New,,,08/2025,Occupational Expert
+11-2022.00,Sales Managers,Establish and monitor staff's sales goals.,New,,,08/2025,Occupational Expert
+11-2032.00,Public Relations Managers,Evaluate the effectiveness of communications strategies and plans.,New,,,08/2026,Occupational Expert
+11-2032.00,Public Relations Managers,"Manage clients' social media accounts, including creating content, responding to stakeholder comments and messages, and monitoring public perception.",New,,,08/2026,Occupational Expert
+11-2033.00,Fundraising Managers,Manage stewardship activities to maintain connection with donors.,New,,,08/2025,Incumbent
+11-3013.00,Facilities Managers,"Plan, create, and manage budgets for contracts, equipment, and supplies.",Revision,21280,"Plan, administer, and control budgets for contracts, equipment, and supplies.",08/2024,Incumbent
+11-3013.00,Facilities Managers,Review and approve payroll for employees.,New,,,08/2024,Incumbent
+11-3031.01,Treasurers and Controllers,Monitor and mitigate foreign exchange risks and exposures from rate volatility.,New,,,08/2026,Occupational Expert
+11-3051.02,Geothermal Production Managers,Conduct employee safety training.,New,,,07/2011,Incumbent
+11-3051.06,Hydroelectric Production Managers,Train employees in power plant operations.,New,,,07/2016,Incumbent
+11-3071.00,"Transportation, Storage, and Distribution Managers",Direct the use of drones and autonomous vehicles for efficient and cost-effective delivery of goods and inventory management.,New,,,05/2025,AI/SME
+11-3131.00,Training and Development Managers,"Confer with management or stakeholders and conduct surveys to identify training needs based on projected production processes, changes, and other factors.",Revision,1012,"Confer with management and conduct surveys to identify training needs based on projected production processes, changes, and other factors.",08/2024,Occupational Expert
+11-3131.00,Training and Development Managers,"Evaluate instructor performance and the effectiveness of training programs, providing data and recommendations for improvement.",Revision,1009,"Evaluate instructor performance and the effectiveness of training programs, providing recommendations for improvement.",08/2024,Occupational Expert
+11-3131.00,Training and Development Managers,"Train instructors, supervisors, and other leaders in techniques and skills for training and interacting with employees.",Revision,1017,Train instructors and supervisors in techniques and skills for training and dealing with employees.,08/2024,Occupational Expert
+11-9021.00,Construction Managers,"Direct how drone technology is used for site inspections and progress monitoring, ensuring accurate and timely project completion.",New,,,05/2025,AI/SME
+11-9032.00,"Education Administrators, Kindergarten through Secondary",Supervise student pick-up or drop-off.,New,,,08/2025,Incumbent
+11-9071.00,Gambling Managers,"Monitor the performance of the gaming floor, relocating games and installing new games as necessary.",New,,,08/2023,Incumbent
+11-9199.01,Regulatory Affairs Managers,"Develop and review regulatory strategies, development plans, and implementation plans for the preparation and submission of new products.",Revision,18026,Develop regulatory strategies and implementation plans for the preparation and submission of new products.,08/2024,Occupational Expert
+13-1032.00,"Insurance Appraisers, Auto Damage",Contact vendors to locate replacement parts for vehicles.,New,,,07/2016,Incumbent
+13-1032.00,"Insurance Appraisers, Auto Damage",Discuss insurance claims with customers or damage claimants.,New,,,07/2016,Incumbent
+13-1032.00,"Insurance Appraisers, Auto Damage",Review repair cost estimates and negotiate with automobile repair shops to secure agreement on cost of repairs.,Revision,7247,Review repair cost estimates with automobile repair shop to secure agreement on cost of repairs.,07/2016,Incumbent
+13-1041.03,Equal Opportunity Representatives and Officers,"Develop guidelines for nondiscriminatory employment practices, such as affirmative action plans and equal opportunity employment policies.",Revision,20722,Develop guidelines for nondiscriminatory employment practices.,07/2015,Incumbent
+13-1041.03,Equal Opportunity Representatives and Officers,"Train employees on equal opportunity laws, guidelines, or policies, such as discrimination, diversity, harassment, or affirmative action.",New,,,07/2015,Incumbent
+13-1041.04,Government Property Inspectors and Investigators,"Use emerging technologies, such as drones, for remote or automated inspections.",New,,,05/2025,AI/SME
+13-1041.06,Coroners,"Complete or review death certificates, including the assignment of cause and manner of death.",Revision,8915,"Complete death certificates, including the assignment of cause and manner of death.",08/2024,Occupational Expert
+13-1041.06,Coroners,"Observe and record the positions and conditions of bodies and related evidence at the scene, through documentation or photographs.",Revision,8916,Observe and record the positions and conditions of bodies and related evidence.,08/2024,Occupational Expert
+13-1041.08,Customs Brokers,Submit data for reporting to government agencies.,New,,,08/2026,Occupational Expert
+13-1051.00,Cost Estimators,Use remote sensing technologies or drones to evaluate site conditions when in-person visits are not feasible.,New,,,05/2025,AI/SME
+13-1081.01,Logistics Engineers,"Evaluate the use of technologies, such as global positioning systems (GPS), radio-frequency identification (RFID), route navigation software, drone or robotic technology, or satellite linkup systems, to improve transportation efficiency.",Revision,19998,"Evaluate the use of technologies, such as global positioning systems (GPS), radio-frequency identification (RFID), route navigation software, or satellite linkup systems, to improve transportation efficiency.",05/2025,AI/SME
+13-1121.00,"Meeting, Convention, and Event Planners","Contact potential clients, meet with professional and trade associations, and produce brochures and other publications to promote conference, convention, and trade show services.",Revision,1228,"Promote conference, convention and trades show services by performing tasks such as meeting with professional and trade associations, and producing brochures and other publications.",07/2016,Incumbent
+13-1121.00,"Meeting, Convention, and Event Planners","Plan and develop programs, agendas, budgets, menus, and services according to customer requirements.",Revision,1213,"Plan and develop programs, agendas, budgets, and services according to customer requirements.",07/2016,Incumbent
+13-1161.00,Market Research Analysts and Marketing Specialists,"Gather data on competitors and analyze their prices, sales, market share, and method of marketing and distribution.",Revision,5441,"Gather data on competitors and analyze their prices, sales, and method of marketing and distribution.",08/2026,Occupational Expert
+13-1199.05,Sustainability Specialists,Deliver sustainability training to employees.,New,,,08/2020,Occupational Expert
+13-1199.07,Security Management Specialists,Prepare written reports or presentations on findings and recommendations.,New,,,08/2025,Occupational Expert
+13-1199.07,Security Management Specialists,Train personnel and vendors in security procedures or use of security equipment.,Revision,21504,Train personnel in security procedures or use of security equipment.,08/2025,Occupational Expert
+13-2031.00,Budget Analysts,Communicate financial reports and budgets to stakeholders.,New,,,08/2024,Incumbent
+13-2031.00,Budget Analysts,Submit and monitor salary raises.,New,,,08/2024,Incumbent
+13-2053.00,Insurance Underwriters,Answer agents' questions about insurance coverage.,New,,,08/2018,Occupational Expert
+15-1211.00,Computer Systems Analysts,Write code to perform desired actions.,New,,,08/2023,Incumbent
+15-1255.00,Web and Digital Interface Designers,Optimize webpages for search engine rankings.,New,,,08/2026,Incumbent
+15-1299.02,Geographic Information Systems Technologists and Technicians,Install Geographic Information Systems (GIS) software or updates.,New,,,08/2026,Incumbent
+15-1299.07,Blockchain Engineers,"Develop software tools, such as application programming interfaces (APIs), to integrate applications.",New,,,08/2026,Occupational Expert
+15-2011.00,Actuaries,Develop and maintain projection models.,New,,,08/2026,Occupational Expert
+15-2051.00,Data Scientists,Interview stakeholders to identify questions or problems to address through data analysis.,New,,,08/2026,Occupational Expert
+15-2099.01,Bioinformatics Technicians,Train bioinformatics staff or researchers in the use of databases or performance of laboratory tasks.,Revision,17719,Train bioinformatics staff or researchers in the use of databases.,08/2026,Incumbent
+17-1012.00,Landscape Architects,Develop and facilitate community engagement campaigns and workshops to better understand the community's needs.,New,,,08/2025,Occupational Expert
+17-1012.00,Landscape Architects,Prepare ecological restoration or mitigation design plans to enhance or restore habitats.,New,,,08/2025,Occupational Expert
+17-1012.00,Landscape Architects,Use drone technology to survey large areas and gather accurate topographical data.,New,,,05/2025,AI/SME
+17-1021.00,Cartographers and Photogrammetrists,"Estimate resources, such as production hours, required for projects.",New,,,08/2018,Incumbent
+17-1021.00,Cartographers and Photogrammetrists,Use drone technology to capture high-resolution images and data for map creation and updating.,New,,,05/2025,AI/SME
+17-1022.01,Geodetic Surveyors,"Determine orientation of tracts of land, including position, boundaries, size, and shape, using theodolites, electronic distance-measuring equipment, satellite-based positioning equipment, drones, land information systems, or other geodetic survey equipment.",Revision,16301,"Determine orientation of tracts of land, including position, boundaries, size, and shape, using theodolites, electronic distance-measuring equipment, satellite-based positioning equipment, land information systems, or other geodetic survey equipment.",05/2025,AI/SME
+17-2011.00,Aerospace Engineers,Develop and test autonomous systems for uncrewed aerospace vehicles.,New,,,05/2025,AI/SME
+17-2021.00,Agricultural Engineers,Communicate results in peer-reviewed research articles or at workshops or conferences.,New,,,08/2024,Occupational Expert
+17-2021.00,Agricultural Engineers,"Use agricultural drones for crop monitoring, irrigation management, and pest control.",New,,,05/2025,AI/SME
+17-2041.00,Chemical Engineers,Adapt processes to convert from small-scale laboratory operations to large-scale commercial production.,New,,,08/2025,Occupational Expert
+17-2041.00,Chemical Engineers,Develop process flow diagrams or pipe and instrumentation diagrams.,New,,,08/2025,Occupational Expert
+17-2051.00,Civil Engineers,"Use drone technology for site surveying, inspection, and monitoring of infrastructure projects.",New,,,05/2025,AI/SME
+17-2051.01,Transportation Engineers,Develop plans for integration of drone technology into transportation systems for purposes such as delivery of goods or traffic monitoring.,New,,,05/2025,AI/SME
+17-2111.02,Fire-Prevention and Protection Engineers,Develop or modify building codes and fire codes.,New,,,08/2025,Occupational Expert
+17-2111.02,Fire-Prevention and Protection Engineers,"Perform testing on fire protection equipment or building features, such as fire doors or smoke control systems.",New,,,08/2025,Occupational Expert
+17-2111.02,Fire-Prevention and Protection Engineers,Review building plans to verify compliance with fire and building codes.,Revision,24004,Review building plans to verify compliance with fire code.,08/2025,Occupational Expert
+17-2112.01,Human Factors Engineers and Ergonomists,Assess systems to identify and quantify risk factors.,New,,,08/2024,Occupational Expert
+17-2121.00,Marine Engineers and Naval Architects,"Develop plans for safely drydocking vessels, including structural integrity, block loading, and stability.",New,,,08/2025,Occupational Expert
+17-2141.00,Mechanical Engineers,Investigate equipment failures or diagnose faulty operations and recommend or perform remedial actions.,Revision,20734,Investigate equipment failures or difficulties to diagnose faulty operation and recommend remedial actions.,08/2024,Incumbent
+17-2151.00,"Mining and Geological Engineers, Including Mining Safety Engineers",Use drone technology for aerial surveys and inspections of mining sites to enhance safety and efficiency.,New,,,05/2025,AI/SME
+17-2161.00,Nuclear Engineers,"Recommend preventive measures to be taken in handling nuclear technology based on data obtained from operations monitoring, systematic analysis, or evaluation of test results.",Revision,5386,"Recommend preventive measures to be taken in the handling of nuclear technology, based on data obtained from operations monitoring or from evaluation of test results.",08/2024,Occupational Expert
+17-2171.00,Petroleum Engineers,Use drone technology for aerial surveying and monitoring of drilling sites.,New,,,05/2025,AI/SME
+17-2199.10,Wind Energy Engineers,Analyze meteorological data.,New,,,07/2012,Incumbent
+17-2199.10,Wind Energy Engineers,Design electrical interconnections.,New,,,07/2012,Incumbent
+17-2199.10,Wind Energy Engineers,Design wind turbine components.,New,,,07/2012,Incumbent
+17-2199.10,Wind Energy Engineers,Estimate energy production by analyzing wind data.,New,,,07/2012,Incumbent
+17-3011.00,Architectural and Civil Drafters,Use drone technology to capture aerial views and topographical data for civil engineering projects.,New,,,05/2025,AI/SME
+17-3013.00,Mechanical Drafters,Print three-dimensional (3D) parts or fixtures using 3D printing equipment to support research and development activities.,New,,,08/2026,Incumbent
+17-3021.00,Aerospace Engineering and Operations Technologists and Technicians,"Operate, test, and troubleshoot uncrewed aerial systems, commonly known as drones, to ensure optimal performance.",New,,,05/2025,AI/SME
+17-3022.00,Civil Engineering Technologists and Technicians,"Operate drones for site surveying and inspection, providing detailed aerial views of project sites.",New,,,05/2025,AI/SME
+17-3024.00,Electro-Mechanical and Mechatronics Technologists and Technicians,"Program and calibrate drones for specific missions or tasks, ensuring proper functionality and performance.",New,,,05/2025,AI/SME
+17-3029.01,Non-Destructive Testing Specialists,"Operate drones for remote inspection of large or hard-to-reach structures, such as wind turbines, bridges, or tall buildings.",New,,,05/2025,AI/SME
+17-3031.00,Surveying and Mapping Technicians,Use drone technology to capture aerial images or videos for creating detailed and accurate maps.,New,,,05/2025,AI/SME
+17-3031.00,Surveying and Mapping Technicians,Write boundary or easement legal descriptions.,New,,,08/2026,Incumbent
+19-1012.00,Food Scientists and Technologists,Test processing equipment to ensure products are produced according to specifications.,New,,,08/2025,Occupational Expert
+19-1021.00,Biochemists and Biophysicists,Analyze biochemical or biophysical data.,New,,,08/2020,Occupational Expert
+19-1022.00,Microbiologists,"Perform tests on water, food, and the environment to detect harmful microorganisms or to obtain information about sources of pollution, contamination, or infection and interpret the results.",Revision,15213,"Monitor and perform tests on water, food, and the environment to detect harmful microorganisms or to obtain information about sources of pollution, contamination, or infection.",08/2024,Occupational Expert
+19-1023.00,Zoologists and Wildlife Biologists,"Use advanced technologies, such as GIS, remote sensing, and drone technology, for wildlife tracking, habitat mapping, and population studies.",New,,,05/2025,AI/SME
+19-1029.04,Biologists,Inventory and order lab supplies.,New,,,08/2025,Incumbent
+19-1041.00,Epidemiologists,Teach epidemiology to students in public health programs.,New,,,08/2023,Occupational Expert
+19-2011.00,Astronomers,Write and review scientific proposals and research papers.,Revision,20049,Review scientific proposals and research papers.,08/2024,Occupational Expert
+19-2032.00,Materials Scientists,"Research or design methods of processing, forming, and firing materials to develop products, such as ceramic dental fillings, unbreakable dinner plates, and telescope lenses.",Revision,9094,"Research methods of processing, forming, and firing materials to develop such products as ceramic dental fillings, unbreakable dinner plates, and telescope lenses.",08/2024,Occupational Expert
+19-2032.00,Materials Scientists,Review and select materials for products to meet product design and cost requirements.,New,,,08/2024,Occupational Expert
+19-2041.03,Industrial Ecologists,Conduct life cycle assessments of products.,New,,,08/2021,Occupational Expert
+19-2043.00,Hydrologists,Investigate the pathway of water contaminants through organisms in a food chain.,New,,,08/2026,Occupational Expert
+19-2099.01,Remote Sensing Scientists and Technologists,Develop protocols and procedures for planning and executing drone-based remote sensing missions to ensure they comply with standards and requirements.,New,,,05/2025,AI/SME
+19-3011.00,Economists,Construct and manage economic datasets.,New,,,08/2024,Occupational Expert
+19-3011.00,Economists,Present research at seminars and conferences.,New,,,08/2024,Occupational Expert
+19-3011.00,Economists,"Review documents written by others, such as referee reports.",Revision,23988,Review documents written by others.,08/2024,Occupational Expert
+19-3032.00,Industrial-Organizational Psychologists,Develop and administer surveys to employees of organizations.,New,,,08/2023,Occupational Expert
+19-3032.00,Industrial-Organizational Psychologists,Teach industrial-organizational psychology courses to undergraduate or graduate students.,New,,,08/2023,Occupational Expert
+19-3034.00,School Psychologists,Analyze schoolwide academic performance to determine students' needs.,New,,,08/2026,Occupational Expert
+19-3034.00,School Psychologists,Supervise and instruct students on internship assignments.,New,,,08/2026,Occupational Expert
+19-3039.03,Clinical Neuropsychologists,Provide feedback to patients and their families on the results of neuropsychological evaluations and recommendations.,New,,,08/2024,Occupational Expert
+19-3041.00,Sociologists,Mentor sociology students.,New,,,08/2023,Occupational Expert
+19-3041.00,Sociologists,Review sociological research and articles.,New,,,08/2023,Occupational Expert
+19-3091.00,Anthropologists and Archeologists,"Write, present, and publish research findings for a variety of specialized and general audiences.",Revision,22234,Write about and present research findings for a variety of specialized and general audiences.,08/2024,Occupational Expert
+19-3093.00,Historians,Coordinate artifact donations on behalf of a museum.,New,,,08/2025,Incumbent
+19-3093.00,Historians,Create and revise scripts for the tour guides.,New,,,08/2025,Incumbent
+19-3093.00,Historians,Write policies and procedures for archival collection care and research protocols.,New,,,08/2025,Incumbent
+19-4012.01,Precision Agriculture Technicians,Operate drone technology to capture aerial imagery and data for crop monitoring and analysis.,New,,,05/2025,AI/SME
+19-4051.02,Nuclear Monitoring Technicians,"Calibrate, maintain, and repair chemical instrumentation sensing elements and sampling system equipment, using calibration instruments and hand tools.",Revision,7608,"Calibrate and maintain chemical instrumentation sensing elements and sampling system equipment, using calibration instruments and hand tools.",07/2014,Incumbent
+19-4051.02,Nuclear Monitoring Technicians,Document results from radiation and contamination surveys.,New,,,07/2014,Incumbent
+19-4051.02,Nuclear Monitoring Technicians,"Inspect, test, and maintain respiratory protection equipment.",New,,,07/2014,Incumbent
+19-4051.02,Nuclear Monitoring Technicians,Write radiological work permits.,New,,,07/2014,Incumbent
+19-4061.00,Social Science Research Assistants,Write grant proposals.,New,,,08/2019,Incumbent
+19-4071.00,Forest and Conservation Technicians,Develop contracts related to operations.,New,,,08/2018,Incumbent
+19-4071.00,Forest and Conservation Technicians,Monitor environmental conditions such as temperature or humidity.,New,,,08/2018,Incumbent
+19-4071.00,Forest and Conservation Technicians,"Operate and manage drone technology for aerial surveys and mapping, wildlife monitoring, and forest health assessments.",New,,,05/2025,AI/SME
+19-4071.00,Forest and Conservation Technicians,Write reports on forestry or conservation activities.,New,,,08/2018,Incumbent
+19-4092.00,Forensic Science Technicians,Enter data into databases.,New,,,08/2023,Incumbent
+19-4092.00,Forensic Science Technicians,Operate drones to capture aerial footage or photographs of crime scenes for further analysis.,New,,,05/2025,AI/SME
+19-4099.03,Remote Sensing Technicians,Operate remote sensing equipment on drones to collect data in areas that are difficult to access or require high-resolution imagery.,New,,,05/2025,AI/SME
+21-1013.00,Marriage and Family Therapists,Determine which family members or significant others should attend group therapy sessions.,New,,,08/2026,Occupational Expert
+21-1014.00,Mental Health Counselors,Guide clients in the development of skills or strategies for dealing with their problems and coping with triggering factors.,Revision,1593,Guide clients in the development of skills or strategies for dealing with their problems.,08/2025,Occupational Expert
+21-1014.00,Mental Health Counselors,"Respond to client communications by monitoring voicemail and email, returning phone calls, and making follow-up calls for missed appointments.",New,,,08/2025,Occupational Expert
+21-1022.00,Healthcare Social Workers,Conduct psychological assessment of clients.,New,,,08/2021,Occupational Expert
+21-1093.00,Social and Human Service Assistants,Teach parenting techniques to family members.,New,,,08/2020,Incumbent
+23-1021.00,"Administrative Law Judges, Adjudicators, and Hearing Officers",Review new case law or changes in laws or regulations to stay current on legal precedent.,New,,,08/2026,Occupational Expert
+23-1023.00,"Judges, Magistrate Judges, and Magistrates",Issue search or arrest warrants.,Revision,21182,Issue arrest warrants.,08/2020,Incumbent
+23-2011.00,Paralegals and Legal Assistants,Manage attorneys' calendars and schedule meetings.,New,,,08/2024,Incumbent
+23-2011.00,Paralegals and Legal Assistants,"Request, review, and summarize relevant records for the cases.",New,,,08/2024,Incumbent
+25-1022.00,"Mathematical Science Teachers, Postsecondary",Hire adjunct faculty.,New,,,08/2019,Incumbent
+25-1042.00,"Biological Science Teachers, Postsecondary",Write letters of recommendation for students.,New,,,08/2019,Incumbent
+25-1043.00,"Forestry and Conservation Science Teachers, Postsecondary",Monitor research program budgets.,New,,,08/2020,Incumbent
+25-1051.00,"Atmospheric, Earth, Marine, and Space Sciences Teachers, Postsecondary","Prepare and deliver lectures to undergraduate or graduate students on topics such as structural geology, micrometeorology, atmospheric thermodynamics, and physics.",Revision,5849,"Prepare and deliver lectures to undergraduate or graduate students on topics such as structural geology, micrometeorology, and atmospheric thermodynamics.",08/2019,Incumbent
+25-1054.00,"Physics Teachers, Postsecondary",Review articles to determine their suitability for publication.,New,,,08/2019,Incumbent
+25-1066.00,"Psychology Teachers, Postsecondary",Mentor other faculty members.,New,,,08/2019,Incumbent
+25-1067.00,"Sociology Teachers, Postsecondary",Give presentations to community groups.,New,,,08/2019,Incumbent
+25-1067.00,"Sociology Teachers, Postsecondary",Review manuscripts.,New,,,08/2019,Incumbent
+25-1067.00,"Sociology Teachers, Postsecondary",Write letters of recommendation for students.,New,,,08/2019,Incumbent
+25-1081.00,"Education Teachers, Postsecondary",Deliver presentations at professional conferences.,New,,,08/2019,Incumbent
+25-1082.00,"Library Science Teachers, Postsecondary",Serve as a mentor.,New,,,08/2019,Incumbent
+25-1121.00,"Art, Drama, and Music Teachers, Postsecondary",Direct theater productions.,New,,,08/2019,Incumbent
+25-1121.00,"Art, Drama, and Music Teachers, Postsecondary",Mentor students.,New,,,08/2019,Incumbent
+25-1125.00,"History Teachers, Postsecondary",Evaluate faculty members.,New,,,08/2019,Incumbent
+25-1193.00,"Recreation and Fitness Studies Teachers, Postsecondary",Monitor department budgets.,New,,,08/2019,Incumbent
+25-2057.00,"Special Education Teachers, Middle School","Track students' progress on computer-based programs, such as reading fluency and comprehension.",New,,,08/2025,Incumbent
+25-2058.00,"Special Education Teachers, Secondary School",Monitor students using personal electronics or school-issued technology.,New,,,08/2025,Incumbent
+25-2059.01,Adapted Physical Education Specialists,Meet with general physical education teachers to exchange best practices and methods for adapted physical education services.,New,,,08/2026,Occupational Expert
+25-3031.00,"Substitute Teachers, Short-Term",Provide teachers with notes summarizing the day's activities and feedback on any issues or events that occurred.,New,,,08/2025,Incumbent
+25-4011.00,Archivists,Write grants and apply for funding to support archival work.,New,,,08/2024,Occupational Expert
+25-4013.00,Museum Technicians and Conservators,Give presentations on conservation and preservation topics to educate colleagues or the public.,New,,,08/2026,Occupational Expert
+25-4013.00,Museum Technicians and Conservators,Seek guidance from representatives of relevant communities on appropriate handling and storage of items.,New,,,08/2026,Occupational Expert
+25-4031.00,Library Technicians,Open and close the library.,New,,,07/2017,Incumbent
+25-9044.00,"Teaching Assistants, Postsecondary",Correspond with students through email to address their questions and concerns.,New,,,07/2016,Incumbent
+27-1025.00,Interior Designers,"Review contractor bids to subcontract fabrication, installation, and arrangement of carpeting, fixtures, accessories, draperies, paint and wall coverings, art work, furniture, and related items.",Revision,1739,"Subcontract fabrication, installation, and arrangement of carpeting, fixtures, accessories, draperies, paint and wall coverings, art work, furniture, and related items.",08/2024,Occupational Expert
+27-2011.00,Actors,Create self-recordings to audition for roles.,New,,,08/2026,Occupational Expert
+27-2012.05,Media Technical Directors/Managers,Coordinate the use of drone technology for aerial filming and photography.,New,,,05/2025,AI/SME
+27-2032.00,Choreographers,Plan and direct rehearsals to instruct dancers in dance steps and in techniques to achieve desired effects.,Revision,11028,Direct rehearsals to instruct dancers in dance steps and in techniques to achieve desired effects.,08/2024,Occupational Expert
+27-2091.00,"Disc Jockeys, Except Radio",Write announcement scripts for events.,New,,,08/2026,Occupational Expert
+27-3092.00,Court Reporters and Simultaneous Captioners,Perform live captioning services for meetings or events.,New,,,08/2026,Occupational Expert
+27-3092.00,Court Reporters and Simultaneous Captioners,Transmit real-time feeds to judges and attorneys during proceedings.,New,,,08/2026,Occupational Expert
+27-4011.00,Audio and Video Technicians,Operate drones for aerial videography and photography during live events or for pre-recorded material.,New,,,05/2025,AI/SME
+27-4011.00,Audio and Video Technicians,Purchase audio or video equipment.,New,,,08/2018,Incumbent
+27-4021.00,Photographers,Engage in research to learn technological developments and techniques or to develop new photographic procedures and materials.,Revision,9363,Engage in research to develop new photographic procedures and materials.,08/2021,Occupational Expert
+27-4021.00,Photographers,"Operate drones to capture aerial photographs and videos, following all regulatory guidelines.",New,,,05/2025,AI/SME
+27-4031.00,"Camera Operators, Television, Video, and Film","Operate drones to capture aerial or unique angle footage for film, television, or video productions.",New,,,05/2025,AI/SME
+27-4032.00,Film and Video Editors,Write scripts.,New,,,08/2020,Incumbent
+29-1021.00,"Dentists, General",Place or restore dental implants.,New,,,08/2026,Incumbent
+29-1022.00,Oral and Maxillofacial Surgeons,"Read and evaluate imaging, such as computed tomography (CT) and magnetic resonance imaging (MRI), for diagnosis and treatment.",New,,,08/2026,Occupational Expert
+29-1024.00,Prosthodontists,Consult with patients about treatment options.,New,,,08/2024,Incumbent
+29-1024.00,Prosthodontists,Create treatment plans for patients.,New,,,08/2024,Incumbent
+29-1071.00,Physician Assistants,Refer patients to other healthcare providers.,New,,,08/2021,Occupational Expert
+29-1122.00,Occupational Therapists,Recommend adaptive equipment to individuals to increase independence in daily living activities.,New,,,08/2021,Occupational Expert
+29-1128.00,Exercise Physiologists,Manage patient clinical symptoms during stress testing protocols.,New,,,08/2026,Occupational Expert
+29-1128.00,Exercise Physiologists,Measure oxygen consumption or lung functioning using spirometers or pulse oximeters.,Revision,19197,"Measure oxygen consumption or lung functioning, using spirometers.",08/2026,Occupational Expert
+29-1128.00,Exercise Physiologists,"Monitor and assess patient physiological responses by measuring vital signs, including blood pressure, heart rate, electrocardiogram (ECG) activity, and lung sounds, during rest, exercise, and postexercise stress testing.",New,,,08/2026,Occupational Expert
+29-1129.01,Art Therapists,"Document and securely store client artwork in compliance with privacy laws, ethical guidelines, and facility requirements.",New,,,08/2026,Occupational Expert
+29-1129.01,Art Therapists,Provide crisis intervention by contacting emergency personnel and facilitating treatment coordination during client emergencies.,New,,,08/2026,Occupational Expert
+29-1141.02,Advanced Practice Psychiatric Nurses,Mentor nursing students.,New,,,08/2023,Occupational Expert
+29-1141.04,Clinical Nurse Specialists,Develop and evaluate work processes based on evidence-based standards.,New,,,08/2025,Occupational Expert
+29-1161.00,Nurse Midwives,Evaluate mental health of patients.,New,,,08/2021,Occupational Expert
+29-1161.00,Nurse Midwives,Screen patients for gynecologic conditions such as infections.,New,,,08/2021,Occupational Expert
+29-1214.00,Emergency Medicine Physicians,Consult and direct other medical personnel on patient care.,New,,,08/2025,Occupational Expert
+29-1214.00,Emergency Medicine Physicians,Process patient transfers to and from other hospitals.,New,,,08/2025,Occupational Expert
+29-1223.00,Psychiatrists,Perform mental health evaluations to provide information to courts of law on patients' mental states.,New,,,07/2014,Incumbent
+29-1223.00,Psychiatrists,"Teach and supervise medical students, residents, and nurse practitioners.",New,,,08/2026,Incumbent
+29-1229.04,Physical Medicine and Rehabilitation Physicians,"Perform diagnostic and therapeutic guided interventions, including injections and ablations.",New,,,08/2026,Occupational Expert
+29-1229.06,Sports Medicine Physicians,"Perform diagnostic and therapeutic musculoskeletal procedures by using ultrasound guidance to identify conditions and conduct interventions, such as musculoskeletal injections.",New,,,08/2026,Occupational Expert
+29-1229.06,Sports Medicine Physicians,Teach and supervise medical students and physicians in training.,New,,,08/2026,Occupational Expert
+29-2011.00,Medical and Clinical Laboratory Technologists,Conduct blood typing and antibody screening.,New,,,08/2025,Incumbent
+29-2011.04,Histotechnologists,"Cut sections of body tissues for microscopic examination, using microtomes or cryostats.",Revision,22780,"Cut sections of body tissues for microscopic examination, using microtomes.",08/2024,Occupational Expert
+29-2011.04,Histotechnologists,Select and maintain controls for stains.,New,,,08/2024,Occupational Expert
+29-2012.01,Histology Technicians,Load slides onto staining equipment.,New,,,08/2025,Occupational Expert
+29-2031.00,Cardiovascular Technologists and Technicians,"Perform general administrative tasks, such as answering telephones, scheduling appointments, or ordering supplies or equipment.",Revision,15234,"Perform general administrative tasks, such as scheduling appointments or ordering supplies or equipment.",07/2014,Incumbent
+29-2033.00,Nuclear Medicine Technologists,Schedule patients for nuclear medicine exams and procedures.,New,,,07/2013,Incumbent
+29-2043.00,Paramedics,"Lift and move patients using assistive devices, such as stretchers and stairchairs.",New,,,08/2026,Occupational Expert
+29-2057.00,Ophthalmic Medical Technicians,Order supplies.,New,,,08/2020,Occupational Expert
+29-2057.00,Ophthalmic Medical Technicians,"Perform examinations using ophthalmic equipment, such as autorefractors, phoropters, tomographs, or retinoscopes.",Revision,19250,"Operate ophthalmic equipment, such as autorefractors, phoropters, tomographs, or retinoscopes.",08/2020,Occupational Expert
+29-2099.08,Patient Representatives,Develop and review patient care plans.,New,,,08/2026,Occupational Expert
+29-9091.00,Athletic Trainers,Develop emergency action plans for sports facilities.,New,,,08/2021,Incumbent
+29-9099.01,Midwives,Test patients for sexually transmitted infections.,New,,,08/2021,Incumbent
+31-1121.00,Home Health Aides,Assist patients with toileting and incontinent care.,New,,,07/2014,Incumbent
+31-1121.00,Home Health Aides,Feed patients.,New,,,07/2014,Incumbent
+31-1122.00,Personal Care Aides,"Administer bedside or personal care, such as assistance with ambulation, dressing, feeding, or personal hygiene.",Revision,2370,"Administer bedside or personal care, such as ambulation or personal hygiene assistance.",08/2023,Incumbent
+31-2012.00,Occupational Therapy Aides,Sanitize equipment.,New,,,08/2020,Incumbent
+31-9093.00,Medical Equipment Preparers,Order medical supplies for healthcare facilities or laboratories.,New,,,07/2014,Incumbent
+31-9097.00,Phlebotomists,Track and respond to patient vital signs for conditions such as hypotension and hypoglycemia.,New,,,08/2026,Occupational Expert
+33-1012.00,First-Line Supervisors of Police and Detectives,Read and review subordinates' reports to ensure legal standards are met and there are no mistakes.,New,,,08/2024,Incumbent
+33-1021.00,First-Line Supervisors of Firefighting and Prevention Workers,Deploy and monitor drones for aerial surveillance and assessment of fire situations.,New,,,05/2025,AI/SME
+33-1021.00,First-Line Supervisors of Firefighting and Prevention Workers,Prepare and review budgets to ensure spending meets budget constraints.,New,,,08/2026,Incumbent
+33-2022.00,Forest Fire Inspectors and Prevention Specialists,"Operate drones to monitor and assess fire conditions, track fire progress, and identify safe access points for firefighters.",New,,,05/2025,AI/SME
+33-3012.00,Correctional Officers and Jailers,Conduct security checks of the premises.,New,,,08/2023,Incumbent
+33-3021.00,Detectives and Criminal Investigators,Operate drones for aerial surveillance or to gather evidence from difficult to reach locations.,New,,,05/2025,AI/SME
+33-3021.02,Police Identification and Records Officers,Use drone technology for aerial photography and videography of crime scenes.,New,,,05/2025,AI/SME
+33-3021.06,Intelligence Analysts,Make recommendations for investigations and subpoenas.,New,,,08/2024,Occupational Expert
+33-3031.00,Fish and Game Wardens,Operate drones for surveillance of large areas and tracking of wildlife.,New,,,05/2025,AI/SME
+33-3051.00,Police and Sheriff's Patrol Officers,Organize community events and programs to educate community members about law enforcement practices.,New,,,08/2026,Incumbent
+33-9011.00,Animal Control Workers,"Deliver educational presentations on wildlife topics, such as animal safety, at schools and community events.",New,,,08/2025,Occupational Expert
+33-9011.00,Animal Control Workers,Pick up deceased animals from roadways and dispose of the animal carcasses.,New,,,08/2025,Occupational Expert
+33-9011.00,Animal Control Workers,Testify at court hearings when citations are contested.,New,,,08/2025,Occupational Expert
+33-9011.00,Animal Control Workers,Transport injured or ill wildlife to rescues.,New,,,08/2025,Occupational Expert
+33-9021.00,Private Detectives and Investigators,Serve documents to parties named in legal proceedings.,New,,,07/2015,Incumbent
+33-9021.00,Private Detectives and Investigators,"Use advanced technology, such as drones, GPS trackers, and surveillance cameras, to facilitate investigations.",New,,,05/2025,AI/SME
+33-9099.02,Retail Loss Prevention Specialists,Use drone technology for surveillance and loss prevention.,New,,,05/2025,AI/SME
+35-2021.00,Food Preparation Workers,"Check and log refrigerator, freezer, and cooler temperatures.",New,,,08/2024,Incumbent
+35-3011.00,Bartenders,Provide customers with directions or answers to questions.,New,,,07/2017,Incumbent
+35-3023.00,Fast Food and Counter Workers,Check and monitor food temperatures while cooking.,New,,,08/2025,Incumbent
+35-3031.00,Waiters and Waitresses,Check with customers to see if they want to apply any rewards to their purchase.,New,,,08/2025,Incumbent
+35-3031.00,Waiters and Waitresses,"Perform routine tasks, such as refilling syrups, sanitizer bottles, and other essential supplies.",New,,,08/2025,Incumbent
+35-9011.00,Dining Room and Cafeteria Attendants and Bartender Helpers,"Prepare food, such as sandwiches, for customers.",New,,,08/2021,Incumbent
+35-9021.00,Dishwashers,"Clean and sanitize the dining area, including tables.",New,,,08/2025,Incumbent
+37-1012.00,"First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers",Repair irrigation systems.,New,,,08/2021,Incumbent
+37-2021.00,Pest Control Workers,Monitor inventory of chemicals and supplies.,New,,,08/2026,Incumbent
+37-3012.00,"Pesticide Handlers, Sprayers, and Applicators, Vegetation","Use new technology and equipment, such as drones or GPS systems, to apply pesticides more accurately and efficiently.",New,,,05/2025,AI/SME
+39-2011.00,Animal Trainers,Teach owners how to train their dogs.,New,,,07/2014,Incumbent
+39-2011.00,Animal Trainers,Teach people with visual impairments to use guide dogs.,New,,,07/2014,Incumbent
+39-2021.00,Animal Caretakers,Scuba dive in aquariums to perform exhibit maintenance.,New,,,08/2019,Incumbent
+39-2021.00,Animal Caretakers,Train volunteers and facility staff.,New,,,08/2019,Incumbent
+39-3012.00,Gambling and Sports Book Writers and Runners,Provide race or game information to patrons.,New,,,07/2014,Incumbent
+39-3012.00,Gambling and Sports Book Writers and Runners,Serve drinks to patrons.,New,,,07/2014,Incumbent
+39-3021.00,Motion Picture Projectionists,Download digital keys to unlock digital movie files.,New,,,08/2020,Incumbent
+39-3021.00,Motion Picture Projectionists,"Ingest digital content, such as films, advertisements, or trailers, into servers or projectors.",New,,,08/2020,Incumbent
+39-3031.00,"Ushers, Lobby Attendants, and Ticket Takers",Provide food and beverages to customers.,New,,,08/2026,Incumbent
+39-3092.00,Costume Attendants,Create patterns for costumes based on designer's drawings.,New,,,07/2016,Incumbent
+39-3092.00,Costume Attendants,Schedule costume fittings for actors.,New,,,07/2016,Incumbent
+39-5091.00,"Makeup Artists, Theatrical and Performance","Clean and sanitize supplies, such as makeup brushes.",Revision,24008,Clean supplies such as makeup brushes.,08/2025,Occupational Expert
+39-5093.00,Shampooers,"Assist hair stylists with chemical services, such as neutralizing perms and applying hair color.",New,,,06/2008,Incumbent
+39-5093.00,Shampooers,Launder and fold the towels that are used for drying customers' hair.,New,,,06/2008,Incumbent
+39-5093.00,Shampooers,"Refill and stock work stations with supplies, such as shampoos and conditioners.",New,,,06/2008,Incumbent
+39-5093.00,Shampooers,Rinse out hair color or permanent solutions from customers' hair.,New,,,06/2008,Incumbent
+39-5093.00,Shampooers,Sweep hair from the salon floor.,New,,,06/2008,Incumbent
+39-9031.00,Exercise Trainers and Group Fitness Instructors,Adjust workout programs and provide variations to address injuries or muscle soreness.,New,,,08/2025,Occupational Expert
+39-9041.00,Residential Advisors,Advise student organizations.,New,,,08/2019,Incumbent
+41-3011.00,Advertising Sales Agents,Write and produce radio advertisements.,New,,,08/2026,Incumbent
+41-4011.07,Solar Sales Representatives and Assessors,Log client information and sales leads into tracking documents or software.,New,,,08/2024,Incumbent
+41-9021.00,Real Estate Brokers,Negotiate lease terms and renewals for the client.,New,,,08/2026,Incumbent
+41-9021.00,Real Estate Brokers,Tour homes with tenants or buyers.,New,,,08/2026,Incumbent
+41-9022.00,Real Estate Sales Agents,Contact prospective clients who want to buy or sell a home.,New,,,08/2026,Occupational Expert
+41-9091.00,"Door-to-Door Sales Workers, News and Street Vendors, and Related Workers",Contact customers to ensure their satisfaction with products or services.,New,,,08/2018,Occupational Expert
+41-9091.00,"Door-to-Door Sales Workers, News and Street Vendors, and Related Workers",Train new recruits or other employees.,New,,,08/2018,Occupational Expert
+43-4121.00,"Library Assistants, Clerical",Hire library staff such as student assistants.,New,,,08/2018,Incumbent
+43-4171.00,Receptionists and Information Clerks,"Enter and update databases of contact information, such as names, addresses, and phone numbers.",New,,,08/2023,Incumbent
+43-5051.00,Postal Service Clerks,Stock lobby with retail merchandise.,New,,,07/2016,Incumbent
+43-6011.00,Executive Secretaries and Executive Administrative Assistants,Keep track of employees' time.,New,,,07/2017,Incumbent
+43-9081.00,Proofreaders and Copy Markers,Check the facts of stories using the internet.,New,,,07/2016,Incumbent
+43-9081.00,Proofreaders and Copy Markers,"Design page layouts using text, photographs, graphics, and other elements.",New,,,07/2016,Incumbent
+45-2091.00,Agricultural Equipment Operators,"Operate drones to monitor crop health, growth and pest infestations, and apply targeted treatments.",New,,,05/2025,AI/SME
+45-3031.00,Fishing and Hunting Workers,Operate and maintain drone technology for aerial surveillance of hunting and fishing areas.,New,,,05/2025,AI/SME
+45-4011.00,Forest and Conservation Workers,Create field maps using geographic information systems technology.,New,,,08/2023,Incumbent
+45-4022.00,Logging Equipment Operators,Operate remote-controlled logging machines and drones for dangerous or hard-to-reach tasks.,New,,,05/2025,AI/SME
+45-4023.00,Log Graders and Scalers,Move logs using heavy equipment such as log loaders.,New,,,07/2017,Incumbent
+47-2021.00,Brickmasons and Blockmasons,Use drone technology to inspect and assess the condition of tall structures.,New,,,05/2025,AI/SME
+47-2031.00,Carpenters,Use drones for site surveying and to inspect hard-to-reach areas of a structure.,New,,,05/2025,AI/SME
+47-2141.00,"Painters, Construction and Maintenance","Clean tools and equipment, such as brushes and rollers.",New,,,07/2014,Incumbent
+47-2141.00,"Painters, Construction and Maintenance",Hang wallpaper.,New,,,07/2014,Incumbent
+47-2142.00,Paperhangers,Hang and secure vinyl tarps to billboards.,New,,,08/2026,Incumbent
+47-4011.00,Construction and Building Inspectors,Inspect structures to determine cause and origin of damage.,New,,,08/2024,Occupational Expert
+47-4011.01,Energy Auditors,Evaluate the energy performance of buildings using modeling software.,New,,,08/2022,Occupational Expert
+47-4071.00,Septic Tank Servicers and Sewer Pipe Cleaners,"Pump, clean, and repair septic tanks, sewer lines, or related structures such as manholes, culverts, and catch basins.",Revision,11610,"Clean and repair septic tanks, sewer lines, or related structures such as manholes, culverts, and catch basins.",07/2017,Incumbent
+47-5012.00,"Rotary Drill Operators, Oil and Gas","Inspect safety equipment, such as harnesses, belts, and lifelines, before use.",New,,,08/2026,Incumbent
+47-5013.00,"Service Unit Operators, Oil and Gas","Maintain and perform safety inspections on rigs, equipment, and other tools.",Revision,20451,Maintain and perform safety inspections on equipment and tools.,07/2013,Incumbent
+47-5032.00,"Explosives Workers, Ordnance Handling Experts, and Blasters",Operate drones for aerial survey of blast sites and for post-blast damage assessment.,New,,,05/2025,AI/SME
+47-5043.00,"Roof Bolters, Mining",Check roof or ribs for hazardous conditions.,New,,,07/2017,Incumbent
+47-5043.00,"Roof Bolters, Mining","Clean equipment, such as dust collectors.",New,,,07/2017,Incumbent
+49-2021.00,"Radio, Cellular, and Tower Equipment Installers and Repairers",Use drone technology to inspect towers and antennas for damage or maintenance needs.,New,,,05/2025,AI/SME
+49-2091.00,Avionics Technicians,"Perform installation, testing, adjustment, and repair of avionics equipment in uncrewed aerial vehicles, such as drones.",New,,,05/2025,AI/SME
+49-2095.00,"Electrical and Electronics Repairers, Powerhouse, Substation, and Relay","Calibrate instruments, such as transmitters.",New,,,07/2017,Incumbent
+49-2095.00,"Electrical and Electronics Repairers, Powerhouse, Substation, and Relay",Use drones for inspection of high-voltage lines and other hard-to-reach equipment.,New,,,05/2025,AI/SME
+49-3051.00,Motorboat Mechanics and Service Technicians,Explain repair procedures to customers.,New,,,07/2015,Incumbent
+49-3051.00,Motorboat Mechanics and Service Technicians,"Repair or replace engine mechanical equipment, such as power tilts, water pumps, bilge pumps, or power take-offs.",Revision,13770,"Repair engine mechanical equipment, such as power tilts, bilge pumps, or power take-offs.",07/2015,Incumbent
+49-3052.00,Motorcycle Mechanics,Diagnose electrical problems.,New,,,08/2021,Incumbent
+49-3091.00,Bicycle Repairers,Inspect and repair tubeless tire systems and accessories.,New,,,08/2026,Incumbent
+49-3091.00,Bicycle Repairers,Install tubeless tire systems and accessories.,New,,,08/2026,Incumbent
+49-3092.00,Recreational Vehicle Service Technicians,"Inspect and install lights, such as headlights and taillights.",New,,,08/2025,Incumbent
+49-9021.00,"Heating, Air Conditioning, and Refrigeration Mechanics and Installers",Contact vendors to order and arrange delivery of parts for customers.,New,,,08/2026,Incumbent
+49-9043.00,"Maintenance Workers, Machinery","Troubleshoot electrical, hydraulic, or mechanical equipment and machines.",New,,,08/2024,Incumbent
+49-9044.00,Millwrights,"Inventory and store parts, tools, and equipment.",New,,,08/2024,Occupational Expert
+49-9045.00,"Refractory Materials Repairers, Except Brickmasons",Reline furnaces using ramming material.,New,,,06/2007,Incumbent
+49-9052.00,Telecommunications Line Installers and Repairers,Locate and mark cables that are buried underground.,New,,,08/2026,Incumbent
+49-9061.00,Camera and Photographic Equipment Repairers,"Adjust or repair cameras, photographic mechanisms, or equipment such as range and view finders, shutters, light meters, or lens systems, using hand tools.",Revision,8437,"Adjust cameras, photographic mechanisms, or equipment such as range and view finders, shutters, light meters, or lens systems, using hand tools.",07/2015,Incumbent
+49-9061.00,Camera and Photographic Equipment Repairers,Repair and calibrate drone cameras and equipment for aerial photography and videography.,New,,,05/2025,AI/SME
+49-9063.00,Musical Instrument Repairers and Tuners,Adjust the neck angle on fretted instruments.,New,,,08/2025,Occupational Expert
+49-9071.00,"Maintenance and Repair Workers, General","Use drones for inspecting roofs, gutters, and other hard-to-reach areas of buildings.",New,,,05/2025,AI/SME
+49-9094.00,Locksmiths and Safe Repairers,Read blueprints and project specification manuals to recommend appropriate hardware and electronic locking devices.,New,,,08/2025,Occupational Expert
+51-2041.00,Structural Metal Fabricators and Fitters,Troubleshoot and repair electrical or mechanical equipment.,New,,,08/2024,Incumbent
+51-3021.00,Butchers and Meat Cutters,Clean and sanitize meat cases and cutting equipment.,New,,,07/2016,Incumbent
+51-3022.00,"Meat, Poultry, and Fish Cutters and Trimmers",Clean meat cutting equipment.,New,,,07/2017,Incumbent
+51-4111.00,Tool and Die Makers,Troubleshoot malfunctions in manufacturing equipment.,New,,,08/2021,Incumbent
+51-5111.00,Prepress Technicians and Workers,Correct color in photographs or digital images.,New,,,07/2016,Incumbent
+51-6011.00,Laundry and Dry-Cleaning Workers,Deliver clean linens and clothes to clients.,New,,,08/2026,Incumbent
+51-6011.00,Laundry and Dry-Cleaning Workers,Receive supply deliveries and stock items in storage rooms.,New,,,08/2026,Incumbent
+51-6051.00,"Sewers, Hand","Patch materials, such as cotton or leather.",New,,,08/2024,Incumbent
+51-8031.00,Water and Wastewater Treatment Plant and System Operators,Complete wastewater discharge monitoring reports and maintenance logs.,New,,,08/2025,Occupational Expert
+51-8031.00,Water and Wastewater Treatment Plant and System Operators,Maintain and repair portable safety equipment and permanent safety infrastructure to ensure operational readiness and compliance with safety protocols.,New,,,08/2025,Occupational Expert
+51-9071.00,Jewelers and Precious Stone and Metal Workers,"Measure, cut, and file pieces of jewelry, such as rings, brooches, bracelets, and lockets.",Revision,23625,"Cut and file pieces of jewelry such as rings, brooches, bracelets, and lockets.",08/2025,Incumbent
+51-9071.06,Gem and Diamond Workers,Buy and sell diamonds and diamond jewelry for clients.,New,,,08/2026,Incumbent
+51-9081.00,Dental Laboratory Technicians,Meet with dentists or patients to discuss dental appliances.,New,,,08/2022,Incumbent
+51-9081.00,Dental Laboratory Technicians,Order parts or materials needed to make dental appliances.,New,,,08/2022,Incumbent
+51-9081.00,Dental Laboratory Technicians,Scan dental models to create digital files.,New,,,08/2022,Incumbent
+51-9081.00,Dental Laboratory Technicians,Stain porcelain on dental appliances to match the color of patients' teeth.,New,,,08/2022,Incumbent
+51-9083.00,Ophthalmic Laboratory Technicians,Tint lenses according to customer specifications.,New,,,07/2015,Incumbent
+51-9151.00,Photographic Process Workers and Processing Machine Operators,Adjust digital images using software.,New,,,07/2017,Incumbent
+51-9195.04,"Glass Blowers, Molders, Benders, and Finishers","Apply surface decorations, such as colored glass, enamels, and lusters.",New,,,08/2026,Occupational Expert
+51-9195.05,"Potters, Manufacturing","Apply glazes to pottery pieces, using tools such as spray guns.",Revision,21211,"Mix and apply glazes to pottery pieces, using tools, such as spray guns.",08/2020,Incumbent
+51-9195.05,"Potters, Manufacturing",Decorate pottery using tools such as brushes.,New,,,08/2020,Incumbent
+51-9195.05,"Potters, Manufacturing",Load and unload pottery from kilns.,New,,,08/2020,Incumbent
+51-9195.05,"Potters, Manufacturing",Mix chemicals according to recipes to create glazes.,Revision,21211,"Mix and apply glazes to pottery pieces, using tools, such as spray guns.",08/2020,Incumbent
+53-2012.00,Commercial Pilots,"Operate large scale uncrewed aerial vehicles (UAVs) or drones for various commercial purposes, such as aerial photography, surveying land and structures, or monitoring wildlife.",New,,,05/2025,AI/SME
+53-2022.00,Airfield Operations Specialists,Inspect airfield conditions to ensure safety and compliance with federal regulatory requirements.,Revision,23939,Inspect airfield conditions to ensure compliance with federal regulatory requirements.,08/2021,Incumbent
+53-2022.00,Airfield Operations Specialists,Issue notices to advise flight crews of airfield status.,New,,,08/2021,Incumbent
+53-2022.00,Airfield Operations Specialists,Monitor and manage the operation of drones within the airport airspace to ensure safe aircraft operations.,New,,,05/2025,AI/SME
+53-2022.00,Airfield Operations Specialists,Train operations staff on topics such as driving on airfields and security identification display area (SIDA) procedures.,Revision,10618,Train operations staff.,08/2021,Incumbent
+53-3011.00,"Ambulance Drivers and Attendants, Except Emergency Medical Technicians",Evaluate patient condition by checking vital signs before and after transport.,New,,,08/2026,Incumbent
+53-5011.00,Sailors and Marine Oilers,Coordinate and direct the arrival and departure of shipping traffic.,New,,,08/2026,Incumbent
+53-5021.00,"Captains, Mates, and Pilots of Water Vessels",Oversee the use of drones for inspection and maintenance of hard-to-reach parts of the vessel.,New,,,05/2025,AI/SME
+53-5031.00,Ship Engineers,"Use drone technology for ship inspections, maintenance, or other tasks.",New,,,05/2025,AI/SME
+53-6051.01,Aviation Inspectors,"Inspect uncrewed aircraft systems, such as drones, to ensure compliance with safety and operation regulations.",New,,,05/2025,AI/SME
+53-7031.00,Dredge Operators,"Perform maintenance on dredge equipment, such as changing engine oil.",New,,,06/2008,Incumbent
+53-7062.00,"Laborers and Freight, Stock, and Material Movers, Hand",Inspect products for damage or leaks.,New,,,08/2024,Incumbent
+53-7073.00,Wellhead Pumpers,Conduct regular inspections of equipment using drones or other advanced technology.,New,,,05/2025,AI/SME

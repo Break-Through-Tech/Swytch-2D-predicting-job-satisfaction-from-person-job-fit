@@ -1,0 +1,8 @@
+Scale ID,Scale Name,Category,Category Description
+FT,Frequency of Task (Categories 1-7),1,Yearly or less
+FT,Frequency of Task (Categories 1-7),2,More than yearly
+FT,Frequency of Task (Categories 1-7),3,More than monthly
+FT,Frequency of Task (Categories 1-7),4,More than weekly
+FT,Frequency of Task (Categories 1-7),5,Daily
+FT,Frequency of Task (Categories 1-7),6,Several times daily
+FT,Frequency of Task (Categories 1-7),7,Hourly or more

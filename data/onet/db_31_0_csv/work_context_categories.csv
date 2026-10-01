@@ -1,0 +1,282 @@
+Element ID,Element Name,Scale ID,Scale Name,Category,Category Description
+4.C.1.a.2.c,Public Speaking,CXP,Context (Categories 1-5),1,Never
+4.C.1.a.2.c,Public Speaking,CXP,Context (Categories 1-5),2,Once a year or more but not every month
+4.C.1.a.2.c,Public Speaking,CXP,Context (Categories 1-5),3,Once a month or more but not every week
+4.C.1.a.2.c,Public Speaking,CXP,Context (Categories 1-5),4,Once a week or more but not every day
+4.C.1.a.2.c,Public Speaking,CXP,Context (Categories 1-5),5,Every day
+4.C.1.a.2.f,Telephone Conversations,CXP,Context (Categories 1-5),1,Never
+4.C.1.a.2.f,Telephone Conversations,CXP,Context (Categories 1-5),2,Once a year or more but not every month
+4.C.1.a.2.f,Telephone Conversations,CXP,Context (Categories 1-5),3,Once a month or more but not every week
+4.C.1.a.2.f,Telephone Conversations,CXP,Context (Categories 1-5),4,Once a week or more but not every day
+4.C.1.a.2.f,Telephone Conversations,CXP,Context (Categories 1-5),5,Every day
+4.C.1.a.2.h,E-Mail,CXP,Context (Categories 1-5),1,Never
+4.C.1.a.2.h,E-Mail,CXP,Context (Categories 1-5),2,Once a year or more but not every month
+4.C.1.a.2.h,E-Mail,CXP,Context (Categories 1-5),3,Once a month or more but not every week
+4.C.1.a.2.h,E-Mail,CXP,Context (Categories 1-5),4,Once a week or more but not every day
+4.C.1.a.2.h,E-Mail,CXP,Context (Categories 1-5),5,Every day
+4.C.1.a.2.j,Written Letters and Memos,CXP,Context (Categories 1-5),1,Never
+4.C.1.a.2.j,Written Letters and Memos,CXP,Context (Categories 1-5),2,Once a year or more but not every month
+4.C.1.a.2.j,Written Letters and Memos,CXP,Context (Categories 1-5),3,Once a month or more but not every week
+4.C.1.a.2.j,Written Letters and Memos,CXP,Context (Categories 1-5),4,Once a week or more but not every day
+4.C.1.a.2.j,Written Letters and Memos,CXP,Context (Categories 1-5),5,Every day
+4.C.1.a.2.l,Face-to-Face Discussions with Individuals and Within Teams,CXP,Context (Categories 1-5),1,Never
+4.C.1.a.2.l,Face-to-Face Discussions with Individuals and Within Teams,CXP,Context (Categories 1-5),2,Once a year or more but not every month
+4.C.1.a.2.l,Face-to-Face Discussions with Individuals and Within Teams,CXP,Context (Categories 1-5),3,Once a month or more but not every week
+4.C.1.a.2.l,Face-to-Face Discussions with Individuals and Within Teams,CXP,Context (Categories 1-5),4,Once a week or more but not every day
+4.C.1.a.2.l,Face-to-Face Discussions with Individuals and Within Teams,CXP,Context (Categories 1-5),5,Every day
+4.C.1.a.4,Contact With Others,CXP,Context (Categories 1-5),1,No contact with others
+4.C.1.a.4,Contact With Others,CXP,Context (Categories 1-5),2,Occasional contact with others
+4.C.1.a.4,Contact With Others,CXP,Context (Categories 1-5),3,Contact with others about half the time
+4.C.1.a.4,Contact With Others,CXP,Context (Categories 1-5),4,Contact with others most of the time
+4.C.1.a.4,Contact With Others,CXP,Context (Categories 1-5),5,Constant contact with others
+4.C.1.b.1.e,Work With or Contribute to a Work Group or Team,CXP,Context (Categories 1-5),1,Not important at all
+4.C.1.b.1.e,Work With or Contribute to a Work Group or Team,CXP,Context (Categories 1-5),2,Fairly important
+4.C.1.b.1.e,Work With or Contribute to a Work Group or Team,CXP,Context (Categories 1-5),3,Important
+4.C.1.b.1.e,Work With or Contribute to a Work Group or Team,CXP,Context (Categories 1-5),4,Very important
+4.C.1.b.1.e,Work With or Contribute to a Work Group or Team,CXP,Context (Categories 1-5),5,Extremely important
+4.C.1.b.1.f,Deal With External Customers or the Public in General,CXP,Context (Categories 1-5),1,Not important at all
+4.C.1.b.1.f,Deal With External Customers or the Public in General,CXP,Context (Categories 1-5),2,Fairly important
+4.C.1.b.1.f,Deal With External Customers or the Public in General,CXP,Context (Categories 1-5),3,Important
+4.C.1.b.1.f,Deal With External Customers or the Public in General,CXP,Context (Categories 1-5),4,Very important
+4.C.1.b.1.f,Deal With External Customers or the Public in General,CXP,Context (Categories 1-5),5,Extremely important
+4.C.1.b.1.g,Coordinate or Lead Others in Accomplishing Work Activities,CXP,Context (Categories 1-5),1,Not important at all
+4.C.1.b.1.g,Coordinate or Lead Others in Accomplishing Work Activities,CXP,Context (Categories 1-5),2,Fairly important
+4.C.1.b.1.g,Coordinate or Lead Others in Accomplishing Work Activities,CXP,Context (Categories 1-5),3,Important
+4.C.1.b.1.g,Coordinate or Lead Others in Accomplishing Work Activities,CXP,Context (Categories 1-5),4,Very important
+4.C.1.b.1.g,Coordinate or Lead Others in Accomplishing Work Activities,CXP,Context (Categories 1-5),5,Extremely important
+4.C.1.c.1,Health and Safety of Other Workers,CXP,Context (Categories 1-5),1,No responsibility
+4.C.1.c.1,Health and Safety of Other Workers,CXP,Context (Categories 1-5),2,Limited responsibility
+4.C.1.c.1,Health and Safety of Other Workers,CXP,Context (Categories 1-5),3,Moderate responsibility
+4.C.1.c.1,Health and Safety of Other Workers,CXP,Context (Categories 1-5),4,High responsibility
+4.C.1.c.1,Health and Safety of Other Workers,CXP,Context (Categories 1-5),5,Very high responsibility
+4.C.1.c.2,Work Outcomes and Results of Other Workers,CXP,Context (Categories 1-5),1,No responsibility
+4.C.1.c.2,Work Outcomes and Results of Other Workers,CXP,Context (Categories 1-5),2,Limited responsibility
+4.C.1.c.2,Work Outcomes and Results of Other Workers,CXP,Context (Categories 1-5),3,Moderate responsibility
+4.C.1.c.2,Work Outcomes and Results of Other Workers,CXP,Context (Categories 1-5),4,High responsibility
+4.C.1.c.2,Work Outcomes and Results of Other Workers,CXP,Context (Categories 1-5),5,Very high responsibility
+4.C.1.d.1,Conflict Situations,CXP,Context (Categories 1-5),1,Never
+4.C.1.d.1,Conflict Situations,CXP,Context (Categories 1-5),2,Once a year or more but not every month
+4.C.1.d.1,Conflict Situations,CXP,Context (Categories 1-5),3,Once a month or more but not every week
+4.C.1.d.1,Conflict Situations,CXP,Context (Categories 1-5),4,Once a week or more but not every day
+4.C.1.d.1,Conflict Situations,CXP,Context (Categories 1-5),5,Every day
+4.C.1.d.2,"Dealing With Unpleasant, Angry, or Discourteous People",CXP,Context (Categories 1-5),1,Never
+4.C.1.d.2,"Dealing With Unpleasant, Angry, or Discourteous People",CXP,Context (Categories 1-5),2,Once a year or more but not every month
+4.C.1.d.2,"Dealing With Unpleasant, Angry, or Discourteous People",CXP,Context (Categories 1-5),3,Once a month or more but not every week
+4.C.1.d.2,"Dealing With Unpleasant, Angry, or Discourteous People",CXP,Context (Categories 1-5),4,Once a week or more but not every day
+4.C.1.d.2,"Dealing With Unpleasant, Angry, or Discourteous People",CXP,Context (Categories 1-5),5,Every day
+4.C.1.d.3,Dealing with Violent or Physically Aggressive People,CXP,Context (Categories 1-5),1,Never
+4.C.1.d.3,Dealing with Violent or Physically Aggressive People,CXP,Context (Categories 1-5),2,Once a year or more but not every month
+4.C.1.d.3,Dealing with Violent or Physically Aggressive People,CXP,Context (Categories 1-5),3,Once a month or more but not every week
+4.C.1.d.3,Dealing with Violent or Physically Aggressive People,CXP,Context (Categories 1-5),4,Once a week or more but not every day
+4.C.1.d.3,Dealing with Violent or Physically Aggressive People,CXP,Context (Categories 1-5),5,Every day
+4.C.2.a.1.a,"Indoors, Environmentally Controlled",CXP,Context (Categories 1-5),1,Never
+4.C.2.a.1.a,"Indoors, Environmentally Controlled",CXP,Context (Categories 1-5),2,Once a year or more but not every month
+4.C.2.a.1.a,"Indoors, Environmentally Controlled",CXP,Context (Categories 1-5),3,Once a month or more but not every week
+4.C.2.a.1.a,"Indoors, Environmentally Controlled",CXP,Context (Categories 1-5),4,Once a week or more but not every day
+4.C.2.a.1.a,"Indoors, Environmentally Controlled",CXP,Context (Categories 1-5),5,Every day
+4.C.2.a.1.b,"Indoors, Not Environmentally Controlled",CXP,Context (Categories 1-5),1,Never
+4.C.2.a.1.b,"Indoors, Not Environmentally Controlled",CXP,Context (Categories 1-5),2,Once a year or more but not every month
+4.C.2.a.1.b,"Indoors, Not Environmentally Controlled",CXP,Context (Categories 1-5),3,Once a month or more but not every week
+4.C.2.a.1.b,"Indoors, Not Environmentally Controlled",CXP,Context (Categories 1-5),4,Once a week or more but not every day
+4.C.2.a.1.b,"Indoors, Not Environmentally Controlled",CXP,Context (Categories 1-5),5,Every day
+4.C.2.a.1.c,"Outdoors, Exposed to All Weather Conditions",CXP,Context (Categories 1-5),1,Never
+4.C.2.a.1.c,"Outdoors, Exposed to All Weather Conditions",CXP,Context (Categories 1-5),2,Once a year or more but not every month
+4.C.2.a.1.c,"Outdoors, Exposed to All Weather Conditions",CXP,Context (Categories 1-5),3,Once a month or more but not every week
+4.C.2.a.1.c,"Outdoors, Exposed to All Weather Conditions",CXP,Context (Categories 1-5),4,Once a week or more but not every day
+4.C.2.a.1.c,"Outdoors, Exposed to All Weather Conditions",CXP,Context (Categories 1-5),5,Every day
+4.C.2.a.1.d,"Outdoors, Under Cover",CXP,Context (Categories 1-5),1,Never
+4.C.2.a.1.d,"Outdoors, Under Cover",CXP,Context (Categories 1-5),2,Once a year or more but not every month
+4.C.2.a.1.d,"Outdoors, Under Cover",CXP,Context (Categories 1-5),3,Once a month or more but not every week
+4.C.2.a.1.d,"Outdoors, Under Cover",CXP,Context (Categories 1-5),4,Once a week or more but not every day
+4.C.2.a.1.d,"Outdoors, Under Cover",CXP,Context (Categories 1-5),5,Every day
+4.C.2.a.1.e,In an Open Vehicle or Operating Equipment,CXP,Context (Categories 1-5),1,Never
+4.C.2.a.1.e,In an Open Vehicle or Operating Equipment,CXP,Context (Categories 1-5),2,Once a year or more but not every month
+4.C.2.a.1.e,In an Open Vehicle or Operating Equipment,CXP,Context (Categories 1-5),3,Once a month or more but not every week
+4.C.2.a.1.e,In an Open Vehicle or Operating Equipment,CXP,Context (Categories 1-5),4,Once a week or more but not every day
+4.C.2.a.1.e,In an Open Vehicle or Operating Equipment,CXP,Context (Categories 1-5),5,Every day
+4.C.2.a.1.f,In an Enclosed Vehicle or Operate Enclosed Equipment,CXP,Context (Categories 1-5),1,Never
+4.C.2.a.1.f,In an Enclosed Vehicle or Operate Enclosed Equipment,CXP,Context (Categories 1-5),2,Once a year or more but not every month
+4.C.2.a.1.f,In an Enclosed Vehicle or Operate Enclosed Equipment,CXP,Context (Categories 1-5),3,Once a month or more but not every week
+4.C.2.a.1.f,In an Enclosed Vehicle or Operate Enclosed Equipment,CXP,Context (Categories 1-5),4,Once a week or more but not every day
+4.C.2.a.1.f,In an Enclosed Vehicle or Operate Enclosed Equipment,CXP,Context (Categories 1-5),5,Every day
+4.C.2.a.3,Physical Proximity,CXP,Context (Categories 1-5),1,I don't work near other people (beyond 100 ft.)
+4.C.2.a.3,Physical Proximity,CXP,Context (Categories 1-5),2,"I work with others but not closely (e.g., private office)"
+4.C.2.a.3,Physical Proximity,CXP,Context (Categories 1-5),3,"Slightly close (e.g., shared office)"
+4.C.2.a.3,Physical Proximity,CXP,Context (Categories 1-5),4,Moderately close (at arm's length)
+4.C.2.a.3,Physical Proximity,CXP,Context (Categories 1-5),5,Very close (near touching)
+4.C.2.b.1.a,"Exposed to Sounds, Noise Levels that are Distracting or Uncomfortable",CXP,Context (Categories 1-5),1,Never
+4.C.2.b.1.a,"Exposed to Sounds, Noise Levels that are Distracting or Uncomfortable",CXP,Context (Categories 1-5),2,Once a year or more but not every month
+4.C.2.b.1.a,"Exposed to Sounds, Noise Levels that are Distracting or Uncomfortable",CXP,Context (Categories 1-5),3,Once a month or more but not every week
+4.C.2.b.1.a,"Exposed to Sounds, Noise Levels that are Distracting or Uncomfortable",CXP,Context (Categories 1-5),4,Once a week or more but not every day
+4.C.2.b.1.a,"Exposed to Sounds, Noise Levels that are Distracting or Uncomfortable",CXP,Context (Categories 1-5),5,Every day
+4.C.2.b.1.b,Exposed to Very Hot or Cold Temperatures,CXP,Context (Categories 1-5),1,Never
+4.C.2.b.1.b,Exposed to Very Hot or Cold Temperatures,CXP,Context (Categories 1-5),2,Once a year or more but not every month
+4.C.2.b.1.b,Exposed to Very Hot or Cold Temperatures,CXP,Context (Categories 1-5),3,Once a month or more but not every week
+4.C.2.b.1.b,Exposed to Very Hot or Cold Temperatures,CXP,Context (Categories 1-5),4,Once a week or more but not every day
+4.C.2.b.1.b,Exposed to Very Hot or Cold Temperatures,CXP,Context (Categories 1-5),5,Every day
+4.C.2.b.1.c,Exposed to Extremely Bright or Inadequate Lighting Conditions,CXP,Context (Categories 1-5),1,Never
+4.C.2.b.1.c,Exposed to Extremely Bright or Inadequate Lighting Conditions,CXP,Context (Categories 1-5),2,Once a year or more but not every month
+4.C.2.b.1.c,Exposed to Extremely Bright or Inadequate Lighting Conditions,CXP,Context (Categories 1-5),3,Once a month or more but not every week
+4.C.2.b.1.c,Exposed to Extremely Bright or Inadequate Lighting Conditions,CXP,Context (Categories 1-5),4,Once a week or more but not every day
+4.C.2.b.1.c,Exposed to Extremely Bright or Inadequate Lighting Conditions,CXP,Context (Categories 1-5),5,Every day
+4.C.2.b.1.d,Exposed to Contaminants,CXP,Context (Categories 1-5),1,Never
+4.C.2.b.1.d,Exposed to Contaminants,CXP,Context (Categories 1-5),2,Once a year or more but not every month
+4.C.2.b.1.d,Exposed to Contaminants,CXP,Context (Categories 1-5),3,Once a month or more but not every week
+4.C.2.b.1.d,Exposed to Contaminants,CXP,Context (Categories 1-5),4,Once a week or more but not every day
+4.C.2.b.1.d,Exposed to Contaminants,CXP,Context (Categories 1-5),5,Every day
+4.C.2.b.1.e,"Exposed to Cramped Work Space, Awkward Positions",CXP,Context (Categories 1-5),1,Never
+4.C.2.b.1.e,"Exposed to Cramped Work Space, Awkward Positions",CXP,Context (Categories 1-5),2,Once a year or more but not every month
+4.C.2.b.1.e,"Exposed to Cramped Work Space, Awkward Positions",CXP,Context (Categories 1-5),3,Once a month or more but not every week
+4.C.2.b.1.e,"Exposed to Cramped Work Space, Awkward Positions",CXP,Context (Categories 1-5),4,Once a week or more but not every day
+4.C.2.b.1.e,"Exposed to Cramped Work Space, Awkward Positions",CXP,Context (Categories 1-5),5,Every day
+4.C.2.b.1.f,Exposed to Whole Body Vibration,CXP,Context (Categories 1-5),1,Never
+4.C.2.b.1.f,Exposed to Whole Body Vibration,CXP,Context (Categories 1-5),2,Once a year or more but not every month
+4.C.2.b.1.f,Exposed to Whole Body Vibration,CXP,Context (Categories 1-5),3,Once a month or more but not every week
+4.C.2.b.1.f,Exposed to Whole Body Vibration,CXP,Context (Categories 1-5),4,Once a week or more but not every day
+4.C.2.b.1.f,Exposed to Whole Body Vibration,CXP,Context (Categories 1-5),5,Every day
+4.C.2.c.1.a,Exposed to Radiation,CXP,Context (Categories 1-5),1,Never
+4.C.2.c.1.a,Exposed to Radiation,CXP,Context (Categories 1-5),2,Once a year or more but not every month
+4.C.2.c.1.a,Exposed to Radiation,CXP,Context (Categories 1-5),3,Once a month or more but not every week
+4.C.2.c.1.a,Exposed to Radiation,CXP,Context (Categories 1-5),4,Once a week or more but not every day
+4.C.2.c.1.a,Exposed to Radiation,CXP,Context (Categories 1-5),5,Every day
+4.C.2.c.1.b,Exposed to Disease or Infections,CXP,Context (Categories 1-5),1,Never
+4.C.2.c.1.b,Exposed to Disease or Infections,CXP,Context (Categories 1-5),2,Once a year or more but not every month
+4.C.2.c.1.b,Exposed to Disease or Infections,CXP,Context (Categories 1-5),3,Once a month or more but not every week
+4.C.2.c.1.b,Exposed to Disease or Infections,CXP,Context (Categories 1-5),4,Once a week or more but not every day
+4.C.2.c.1.b,Exposed to Disease or Infections,CXP,Context (Categories 1-5),5,Every day
+4.C.2.c.1.c,Exposed to High Places,CXP,Context (Categories 1-5),1,Never
+4.C.2.c.1.c,Exposed to High Places,CXP,Context (Categories 1-5),2,Once a year or more but not every month
+4.C.2.c.1.c,Exposed to High Places,CXP,Context (Categories 1-5),3,Once a month or more but not every week
+4.C.2.c.1.c,Exposed to High Places,CXP,Context (Categories 1-5),4,Once a week or more but not every day
+4.C.2.c.1.c,Exposed to High Places,CXP,Context (Categories 1-5),5,Every day
+4.C.2.c.1.d,Exposed to Hazardous Conditions,CXP,Context (Categories 1-5),1,Never
+4.C.2.c.1.d,Exposed to Hazardous Conditions,CXP,Context (Categories 1-5),2,Once a year or more but not every month
+4.C.2.c.1.d,Exposed to Hazardous Conditions,CXP,Context (Categories 1-5),3,Once a month or more but not every week
+4.C.2.c.1.d,Exposed to Hazardous Conditions,CXP,Context (Categories 1-5),4,Once a week or more but not every day
+4.C.2.c.1.d,Exposed to Hazardous Conditions,CXP,Context (Categories 1-5),5,Every day
+4.C.2.c.1.e,Exposed to Hazardous Equipment,CXP,Context (Categories 1-5),1,Never
+4.C.2.c.1.e,Exposed to Hazardous Equipment,CXP,Context (Categories 1-5),2,Once a year or more but not every month
+4.C.2.c.1.e,Exposed to Hazardous Equipment,CXP,Context (Categories 1-5),3,Once a month or more but not every week
+4.C.2.c.1.e,Exposed to Hazardous Equipment,CXP,Context (Categories 1-5),4,Once a week or more but not every day
+4.C.2.c.1.e,Exposed to Hazardous Equipment,CXP,Context (Categories 1-5),5,Every day
+4.C.2.c.1.f,"Exposed to Minor Burns, Cuts, Bites, or Stings",CXP,Context (Categories 1-5),1,Never
+4.C.2.c.1.f,"Exposed to Minor Burns, Cuts, Bites, or Stings",CXP,Context (Categories 1-5),2,Once a year or more but not every month
+4.C.2.c.1.f,"Exposed to Minor Burns, Cuts, Bites, or Stings",CXP,Context (Categories 1-5),3,Once a month or more but not every week
+4.C.2.c.1.f,"Exposed to Minor Burns, Cuts, Bites, or Stings",CXP,Context (Categories 1-5),4,Once a week or more but not every day
+4.C.2.c.1.f,"Exposed to Minor Burns, Cuts, Bites, or Stings",CXP,Context (Categories 1-5),5,Every day
+4.C.2.d.1.a,Spend Time Sitting,CXP,Context (Categories 1-5),1,Never
+4.C.2.d.1.a,Spend Time Sitting,CXP,Context (Categories 1-5),2,Less than half the time
+4.C.2.d.1.a,Spend Time Sitting,CXP,Context (Categories 1-5),3,About half the time
+4.C.2.d.1.a,Spend Time Sitting,CXP,Context (Categories 1-5),4,More than half the time
+4.C.2.d.1.a,Spend Time Sitting,CXP,Context (Categories 1-5),5,Continually or almost continually
+4.C.2.d.1.b,Spend Time Standing,CXP,Context (Categories 1-5),1,Never
+4.C.2.d.1.b,Spend Time Standing,CXP,Context (Categories 1-5),2,Less than half the time
+4.C.2.d.1.b,Spend Time Standing,CXP,Context (Categories 1-5),3,About half the time
+4.C.2.d.1.b,Spend Time Standing,CXP,Context (Categories 1-5),4,More than half the time
+4.C.2.d.1.b,Spend Time Standing,CXP,Context (Categories 1-5),5,Continually or almost continually
+4.C.2.d.1.c,"Spend Time Climbing Ladders, Scaffolds, or Poles",CXP,Context (Categories 1-5),1,Never
+4.C.2.d.1.c,"Spend Time Climbing Ladders, Scaffolds, or Poles",CXP,Context (Categories 1-5),2,Less than half the time
+4.C.2.d.1.c,"Spend Time Climbing Ladders, Scaffolds, or Poles",CXP,Context (Categories 1-5),3,About half the time
+4.C.2.d.1.c,"Spend Time Climbing Ladders, Scaffolds, or Poles",CXP,Context (Categories 1-5),4,More than half the time
+4.C.2.d.1.c,"Spend Time Climbing Ladders, Scaffolds, or Poles",CXP,Context (Categories 1-5),5,Continually or almost continually
+4.C.2.d.1.d,Spend Time Walking or Running,CXP,Context (Categories 1-5),1,Never
+4.C.2.d.1.d,Spend Time Walking or Running,CXP,Context (Categories 1-5),2,Less than half the time
+4.C.2.d.1.d,Spend Time Walking or Running,CXP,Context (Categories 1-5),3,About half the time
+4.C.2.d.1.d,Spend Time Walking or Running,CXP,Context (Categories 1-5),4,More than half the time
+4.C.2.d.1.d,Spend Time Walking or Running,CXP,Context (Categories 1-5),5,Continually or almost continually
+4.C.2.d.1.e,"Spend Time Kneeling, Crouching, Stooping, or Crawling",CXP,Context (Categories 1-5),1,Never
+4.C.2.d.1.e,"Spend Time Kneeling, Crouching, Stooping, or Crawling",CXP,Context (Categories 1-5),2,Less than half the time
+4.C.2.d.1.e,"Spend Time Kneeling, Crouching, Stooping, or Crawling",CXP,Context (Categories 1-5),3,About half the time
+4.C.2.d.1.e,"Spend Time Kneeling, Crouching, Stooping, or Crawling",CXP,Context (Categories 1-5),4,More than half the time
+4.C.2.d.1.e,"Spend Time Kneeling, Crouching, Stooping, or Crawling",CXP,Context (Categories 1-5),5,Continually or almost continually
+4.C.2.d.1.f,Spend Time Keeping or Regaining Balance,CXP,Context (Categories 1-5),1,Never
+4.C.2.d.1.f,Spend Time Keeping or Regaining Balance,CXP,Context (Categories 1-5),2,Less than half the time
+4.C.2.d.1.f,Spend Time Keeping or Regaining Balance,CXP,Context (Categories 1-5),3,About half the time
+4.C.2.d.1.f,Spend Time Keeping or Regaining Balance,CXP,Context (Categories 1-5),4,More than half the time
+4.C.2.d.1.f,Spend Time Keeping or Regaining Balance,CXP,Context (Categories 1-5),5,Continually or almost continually
+4.C.2.d.1.g,"Spend Time Using Your Hands to Handle, Control, or Feel Objects, Tools, or Controls",CXP,Context (Categories 1-5),1,Never
+4.C.2.d.1.g,"Spend Time Using Your Hands to Handle, Control, or Feel Objects, Tools, or Controls",CXP,Context (Categories 1-5),2,Less than half the time
+4.C.2.d.1.g,"Spend Time Using Your Hands to Handle, Control, or Feel Objects, Tools, or Controls",CXP,Context (Categories 1-5),3,About half the time
+4.C.2.d.1.g,"Spend Time Using Your Hands to Handle, Control, or Feel Objects, Tools, or Controls",CXP,Context (Categories 1-5),4,More than half the time
+4.C.2.d.1.g,"Spend Time Using Your Hands to Handle, Control, or Feel Objects, Tools, or Controls",CXP,Context (Categories 1-5),5,Continually or almost continually
+4.C.2.d.1.h,Spend Time Bending or Twisting Your Body,CXP,Context (Categories 1-5),1,Never
+4.C.2.d.1.h,Spend Time Bending or Twisting Your Body,CXP,Context (Categories 1-5),2,Less than half the time
+4.C.2.d.1.h,Spend Time Bending or Twisting Your Body,CXP,Context (Categories 1-5),3,About half the time
+4.C.2.d.1.h,Spend Time Bending or Twisting Your Body,CXP,Context (Categories 1-5),4,More than half the time
+4.C.2.d.1.h,Spend Time Bending or Twisting Your Body,CXP,Context (Categories 1-5),5,Continually or almost continually
+4.C.2.d.1.i,Spend Time Making Repetitive Motions,CXP,Context (Categories 1-5),1,Never
+4.C.2.d.1.i,Spend Time Making Repetitive Motions,CXP,Context (Categories 1-5),2,Less than half the time
+4.C.2.d.1.i,Spend Time Making Repetitive Motions,CXP,Context (Categories 1-5),3,About half the time
+4.C.2.d.1.i,Spend Time Making Repetitive Motions,CXP,Context (Categories 1-5),4,More than half the time
+4.C.2.d.1.i,Spend Time Making Repetitive Motions,CXP,Context (Categories 1-5),5,Continually or almost continually
+4.C.2.e.1.d,"Wear Common Protective or Safety Equipment such as Safety Shoes, Glasses, Gloves, Hearing Protection, Hard Hats, or Life Jackets",CXP,Context (Categories 1-5),1,Never
+4.C.2.e.1.d,"Wear Common Protective or Safety Equipment such as Safety Shoes, Glasses, Gloves, Hearing Protection, Hard Hats, or Life Jackets",CXP,Context (Categories 1-5),2,Once a year or more but not every month
+4.C.2.e.1.d,"Wear Common Protective or Safety Equipment such as Safety Shoes, Glasses, Gloves, Hearing Protection, Hard Hats, or Life Jackets",CXP,Context (Categories 1-5),3,Once a month or more but not every week
+4.C.2.e.1.d,"Wear Common Protective or Safety Equipment such as Safety Shoes, Glasses, Gloves, Hearing Protection, Hard Hats, or Life Jackets",CXP,Context (Categories 1-5),4,Once a week or more but not every day
+4.C.2.e.1.d,"Wear Common Protective or Safety Equipment such as Safety Shoes, Glasses, Gloves, Hearing Protection, Hard Hats, or Life Jackets",CXP,Context (Categories 1-5),5,Every day
+4.C.2.e.1.e,"Wear Specialized Protective or Safety Equipment such as Breathing Apparatus, Safety Harness, Full Protection Suits, or Radiation Protection",CXP,Context (Categories 1-5),1,Never
+4.C.2.e.1.e,"Wear Specialized Protective or Safety Equipment such as Breathing Apparatus, Safety Harness, Full Protection Suits, or Radiation Protection",CXP,Context (Categories 1-5),2,Once a year or more but not every month
+4.C.2.e.1.e,"Wear Specialized Protective or Safety Equipment such as Breathing Apparatus, Safety Harness, Full Protection Suits, or Radiation Protection",CXP,Context (Categories 1-5),3,Once a month or more but not every week
+4.C.2.e.1.e,"Wear Specialized Protective or Safety Equipment such as Breathing Apparatus, Safety Harness, Full Protection Suits, or Radiation Protection",CXP,Context (Categories 1-5),4,Once a week or more but not every day
+4.C.2.e.1.e,"Wear Specialized Protective or Safety Equipment such as Breathing Apparatus, Safety Harness, Full Protection Suits, or Radiation Protection",CXP,Context (Categories 1-5),5,Every day
+4.C.3.a.1,Consequence of Error,CXP,Context (Categories 1-5),1,Not serious at all
+4.C.3.a.1,Consequence of Error,CXP,Context (Categories 1-5),2,Fairly serious
+4.C.3.a.1,Consequence of Error,CXP,Context (Categories 1-5),3,Serious
+4.C.3.a.1,Consequence of Error,CXP,Context (Categories 1-5),4,Very serious
+4.C.3.a.1,Consequence of Error,CXP,Context (Categories 1-5),5,Extremely serious
+4.C.3.a.2.a,Impact of Decisions on Co-workers or Company Results,CXP,Context (Categories 1-5),1,No results
+4.C.3.a.2.a,Impact of Decisions on Co-workers or Company Results,CXP,Context (Categories 1-5),2,Minor results
+4.C.3.a.2.a,Impact of Decisions on Co-workers or Company Results,CXP,Context (Categories 1-5),3,Moderate results
+4.C.3.a.2.a,Impact of Decisions on Co-workers or Company Results,CXP,Context (Categories 1-5),4,Important results
+4.C.3.a.2.a,Impact of Decisions on Co-workers or Company Results,CXP,Context (Categories 1-5),5,Very important results
+4.C.3.a.2.b,Frequency of Decision Making,CXP,Context (Categories 1-5),1,Never
+4.C.3.a.2.b,Frequency of Decision Making,CXP,Context (Categories 1-5),2,Once a year or more but not every month
+4.C.3.a.2.b,Frequency of Decision Making,CXP,Context (Categories 1-5),3,Once a month or more but not every week
+4.C.3.a.2.b,Frequency of Decision Making,CXP,Context (Categories 1-5),4,Once a week or more but not every day
+4.C.3.a.2.b,Frequency of Decision Making,CXP,Context (Categories 1-5),5,Every day
+4.C.3.a.4,Freedom to Make Decisions,CXP,Context (Categories 1-5),1,No freedom
+4.C.3.a.4,Freedom to Make Decisions,CXP,Context (Categories 1-5),2,Very little freedom
+4.C.3.a.4,Freedom to Make Decisions,CXP,Context (Categories 1-5),3,Limited freedom
+4.C.3.a.4,Freedom to Make Decisions,CXP,Context (Categories 1-5),4,Some freedom
+4.C.3.a.4,Freedom to Make Decisions,CXP,Context (Categories 1-5),5,A lot of freedom
+4.C.3.b.2,Degree of Automation,CXP,Context (Categories 1-5),1,Not at all automated
+4.C.3.b.2,Degree of Automation,CXP,Context (Categories 1-5),2,Slightly automated
+4.C.3.b.2,Degree of Automation,CXP,Context (Categories 1-5),3,Moderately automated
+4.C.3.b.2,Degree of Automation,CXP,Context (Categories 1-5),4,Highly automated
+4.C.3.b.2,Degree of Automation,CXP,Context (Categories 1-5),5,Completely automated
+4.C.3.b.4,Importance of Being Exact or Accurate,CXP,Context (Categories 1-5),1,Not important at all
+4.C.3.b.4,Importance of Being Exact or Accurate,CXP,Context (Categories 1-5),2,Fairly important
+4.C.3.b.4,Importance of Being Exact or Accurate,CXP,Context (Categories 1-5),3,Important
+4.C.3.b.4,Importance of Being Exact or Accurate,CXP,Context (Categories 1-5),4,Very important
+4.C.3.b.4,Importance of Being Exact or Accurate,CXP,Context (Categories 1-5),5,Extremely important
+4.C.3.b.7,Importance of Repeating Same Tasks,CXP,Context (Categories 1-5),1,Not important at all
+4.C.3.b.7,Importance of Repeating Same Tasks,CXP,Context (Categories 1-5),2,Fairly important
+4.C.3.b.7,Importance of Repeating Same Tasks,CXP,Context (Categories 1-5),3,Important
+4.C.3.b.7,Importance of Repeating Same Tasks,CXP,Context (Categories 1-5),4,Very important
+4.C.3.b.7,Importance of Repeating Same Tasks,CXP,Context (Categories 1-5),5,Extremely important
+4.C.3.b.8,"Determine Tasks, Priorities and Goals",CXP,Context (Categories 1-5),1,No freedom
+4.C.3.b.8,"Determine Tasks, Priorities and Goals",CXP,Context (Categories 1-5),2,Very little freedom
+4.C.3.b.8,"Determine Tasks, Priorities and Goals",CXP,Context (Categories 1-5),3,Limited freedom
+4.C.3.b.8,"Determine Tasks, Priorities and Goals",CXP,Context (Categories 1-5),4,Some freedom
+4.C.3.b.8,"Determine Tasks, Priorities and Goals",CXP,Context (Categories 1-5),5,A lot of freedom
+4.C.3.c.1,Level of Competition,CXP,Context (Categories 1-5),1,Not at all competitive
+4.C.3.c.1,Level of Competition,CXP,Context (Categories 1-5),2,Slightly competitive
+4.C.3.c.1,Level of Competition,CXP,Context (Categories 1-5),3,Moderately competitive
+4.C.3.c.1,Level of Competition,CXP,Context (Categories 1-5),4,Highly competitive
+4.C.3.c.1,Level of Competition,CXP,Context (Categories 1-5),5,Extremely competitive
+4.C.3.d.1,Time Pressure,CXP,Context (Categories 1-5),1,Never
+4.C.3.d.1,Time Pressure,CXP,Context (Categories 1-5),2,Once a year or more but not every month
+4.C.3.d.1,Time Pressure,CXP,Context (Categories 1-5),3,Once a month or more but not every week
+4.C.3.d.1,Time Pressure,CXP,Context (Categories 1-5),4,Once a week or more but not every day
+4.C.3.d.1,Time Pressure,CXP,Context (Categories 1-5),5,Every day
+4.C.3.d.3,Pace Determined by Speed of Equipment,CXP,Context (Categories 1-5),1,Not important at all
+4.C.3.d.3,Pace Determined by Speed of Equipment,CXP,Context (Categories 1-5),2,Fairly important
+4.C.3.d.3,Pace Determined by Speed of Equipment,CXP,Context (Categories 1-5),3,Important
+4.C.3.d.3,Pace Determined by Speed of Equipment,CXP,Context (Categories 1-5),4,Very important
+4.C.3.d.3,Pace Determined by Speed of Equipment,CXP,Context (Categories 1-5),5,Extremely important
+4.C.3.d.4,Work Schedules,CTP,Context (Categories 1-3),1,"Regular (established routine, set schedule)"
+4.C.3.d.4,Work Schedules,CTP,Context (Categories 1-3),2,"Irregular (changes with weather conditions, production demands, or contract duration)"
+4.C.3.d.4,Work Schedules,CTP,Context (Categories 1-3),3,Seasonal (only during certain times of the year)
+4.C.3.d.8,Duration of Typical Work Week,CTP,Context (Categories 1-3),1,Less than 40 hours
+4.C.3.d.8,Duration of Typical Work Week,CTP,Context (Categories 1-3),2,40 hours
+4.C.3.d.8,Duration of Typical Work Week,CTP,Context (Categories 1-3),3,More than 40 hours
