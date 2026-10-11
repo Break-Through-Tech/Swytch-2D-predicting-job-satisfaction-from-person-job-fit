@@ -1,1 +1,7 @@
 
+
+# Local Python environment
+.venv/
+
+# NSCG raw public-use download (~400 MB; download from ncses.nsf.gov and unzip here)
+data/college_grads_2023/pcg23Public/
