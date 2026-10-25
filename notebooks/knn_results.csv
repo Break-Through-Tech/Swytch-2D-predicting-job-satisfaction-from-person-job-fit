@@ -1,7 +1,0 @@
-model,best k,weights,CV AUC,test AUC,AUC 95% CI,weighted AUC,PR AUC,threshold,precision,recall,F1,sample
-A. Baseline,801,uniform,0.655,0.652,"[0.638, 0.667]",0.687,0.179,0.112,0.176,0.403,0.245,"full NSCG (79,800)"
-B. Baseline + personal values,801,distance,0.677,0.68,"[0.667, 0.694]",0.699,0.191,0.104,0.187,0.455,0.265,"full NSCG (79,800)"
-A. Baseline,601,uniform,0.614,0.626,"[0.573, 0.677]",0.684,0.154,0.08,0.133,0.613,0.219,O*NET subset
-B. + personal values,601,distance,0.612,0.668,"[0.619, 0.715]",0.689,0.17,0.082,0.162,0.555,0.251,O*NET subset
-C. + occupation profile,601,distance,0.598,0.63,"[0.577, 0.681]",0.573,0.155,0.081,0.15,0.445,0.225,O*NET subset
-D. + fit features,301,distance,0.588,0.634,"[0.580, 0.684]",0.576,0.153,0.07,0.122,0.664,0.206,O*NET subset
