@@ -1,0 +1,14 @@
+features,model,CV AUC,ROC AUC,PR AUC,balanced acc,accuracy,precision,recall,F1,flagged %,threshold,sample,test AUC [95% CI]
+Baseline,Majority class,0.5,0.5,0.0987,0.5,0.9013,0.0,0.0,0.0,0.0,1.0,"full NSCG (79,800)",
+Baseline,Logistic regression,0.6356,0.6264,0.1474,0.594,0.6073,0.1398,0.5774,0.2251,40.7957,0.4979,"full NSCG (79,800)",
+Baseline,Random forest,0.6505,0.6505,0.1657,0.6095,0.6297,0.1491,0.5844,0.2376,38.6967,0.4782,"full NSCG (79,800)",
+Baseline,Gradient boosting,0.6565,0.6521,0.1701,0.6135,0.6801,0.1607,0.5305,0.2467,32.594,0.5236,"full NSCG (79,800)",
+Baseline,KNN,0.6372,0.6342,0.1565,0.5963,0.5625,0.1356,0.6383,0.2237,46.4787,0.0899,"full NSCG (79,800)",
+Baseline + OCEDRLP,Logistic regression,0.6548,0.652,0.1719,0.6068,0.6095,0.145,0.6034,0.2338,41.0965,0.4924,"full NSCG (79,800)",
+Baseline + OCEDRLP,Gradient boosting,0.6677,0.6678,0.1901,0.6177,0.6145,0.1499,0.6218,0.2416,40.9586,0.4854,"full NSCG (79,800)",
+Baseline,Logistic regression,0.604,,0.144,0.598,,0.125,0.653,,,,"O*NET subset (6,849)","0.623 [0.568, 0.677]"
+Baseline,Random forest,0.618,,0.148,0.594,,0.135,0.516,,,,"O*NET subset (6,849)","0.624 [0.570, 0.679]"
+Baseline,Gradient boosting,0.571,,0.12,0.565,,0.123,0.452,,,,"O*NET subset (6,849)","0.592 [0.542, 0.644]"
+Baseline + OCEDRLP,Logistic regression,0.622,,0.146,0.59,,0.121,0.653,,,,"O*NET subset (6,849)","0.622 [0.570, 0.676]"
+Baseline + OCEDRLP,Random forest,0.622,,0.15,0.59,,0.13,0.532,,,,"O*NET subset (6,849)","0.630 [0.578, 0.685]"
+Baseline + OCEDRLP,Gradient boosting,0.576,,0.128,0.57,,0.125,0.46,,,,"O*NET subset (6,849)","0.599 [0.552, 0.652]"
