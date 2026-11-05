@@ -1,0 +1,163 @@
+{
+  "status": "passed",
+  "respondents": 74016,
+  "columns": 63,
+  "occupation_categories": 123,
+  "raw_source_rows": 94606,
+  "added_columns": [
+    "SALARY",
+    "HRSWK",
+    "EMSECSM",
+    "EMSIZE",
+    "SATADV",
+    "SATBEN",
+    "SATCHAL",
+    "SATIND",
+    "SATLOC",
+    "SATRESP",
+    "SATSAL",
+    "SATSEC",
+    "SATSOC"
+  ],
+  "duplicate_ids": 0,
+  "unmatched_ids": 0,
+  "original_50_columns_and_row_order_unchanged": true,
+  "added_values_equal_raw_source": true,
+  "source_files_unchanged": true,
+  "original_values_checked": 3700800,
+  "added_values_checked": 962208,
+  "source_sha256": {
+    "notebooks/possible data integration/nscg2023_onet30_2_subset.csv": "c05e0219ea29738c1ce6ea95aa834c6d2a37aae3b6a90db5d10325b03d9b0f8b",
+    "data/nscg/pcg23Public/epcg23.csv": "41b626b26dc63fd0fa4a24d290c3dd5b3bd363a7444b597a17f8d771856d5791"
+  },
+  "output_file": "nscg2023_onet30_2_integration63.csv",
+  "output_sha256": "e4f908233b51840f977ea3fd657606f4a452d9d44fd6ccbc062b421c9f6b3255",
+  "field_checks": {
+    "SALARY": {
+      "blank_count": 0,
+      "valid_code_check": "passed",
+      "minimum": 0,
+      "maximum": 976934
+    },
+    "HRSWK": {
+      "blank_count": 0,
+      "valid_code_check": "passed",
+      "minimum": 1,
+      "maximum": 96
+    },
+    "EMSECSM": {
+      "blank_count": 0,
+      "valid_code_check": "passed",
+      "value_counts": {
+        "1": 14705,
+        "2": 9193,
+        "3": 50118
+      }
+    },
+    "EMSIZE": {
+      "blank_count": 0,
+      "valid_code_check": "passed",
+      "value_counts": {
+        "1": 7500,
+        "2": 3040,
+        "3": 6263,
+        "4": 10430,
+        "5": 5370,
+        "6": 11246,
+        "7": 12708,
+        "8": 17459
+      }
+    },
+    "SATADV": {
+      "blank_count": 0,
+      "valid_code_check": "passed",
+      "value_counts": {
+        "1": 19467,
+        "2": 33312,
+        "3": 15207,
+        "4": 6030
+      }
+    },
+    "SATBEN": {
+      "blank_count": 0,
+      "valid_code_check": "passed",
+      "value_counts": {
+        "1": 28523,
+        "2": 31851,
+        "3": 8802,
+        "4": 4840
+      }
+    },
+    "SATCHAL": {
+      "blank_count": 0,
+      "valid_code_check": "passed",
+      "value_counts": {
+        "1": 34058,
+        "2": 29346,
+        "3": 7856,
+        "4": 2756
+      }
+    },
+    "SATIND": {
+      "blank_count": 0,
+      "valid_code_check": "passed",
+      "value_counts": {
+        "1": 46315,
+        "2": 22204,
+        "3": 3942,
+        "4": 1555
+      }
+    },
+    "SATLOC": {
+      "blank_count": 0,
+      "valid_code_check": "passed",
+      "value_counts": {
+        "1": 44809,
+        "2": 21791,
+        "3": 5677,
+        "4": 1739
+      }
+    },
+    "SATRESP": {
+      "blank_count": 0,
+      "valid_code_check": "passed",
+      "value_counts": {
+        "1": 36216,
+        "2": 30085,
+        "3": 5963,
+        "4": 1752
+      }
+    },
+    "SATSAL": {
+      "blank_count": 0,
+      "valid_code_check": "passed",
+      "value_counts": {
+        "1": 20615,
+        "2": 36988,
+        "3": 11460,
+        "4": 4953
+      }
+    },
+    "SATSEC": {
+      "blank_count": 0,
+      "valid_code_check": "passed",
+      "value_counts": {
+        "1": 39379,
+        "2": 26067,
+        "3": 5678,
+        "4": 2892
+      }
+    },
+    "SATSOC": {
+      "blank_count": 0,
+      "valid_code_check": "passed",
+      "value_counts": {
+        "1": 38813,
+        "2": 26598,
+        "3": 6275,
+        "4": 2330
+      }
+    }
+  },
+  "policy": "Append only these 13 fields by unique OBSNUM. Preserve original CSV field values. No recoding, reverse coding, imputation, row filtering, outlier removal, scaling, or model training. Key whitespace is stripped only for matching."
+}
