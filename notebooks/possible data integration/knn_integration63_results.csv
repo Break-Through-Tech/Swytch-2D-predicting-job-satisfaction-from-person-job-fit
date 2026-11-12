@@ -1,0 +1,11 @@
+model,roc_auc,pr_auc_unsat,precision_unsat,recall_unsat,f1_unsat,auc_ci_low,auc_ci_high,fold_auc_mean,fold_auc_sd
+dummy_prior,0.496,0.099,0.0,0.0,0.0,,,0.5,0.0
+knn_demographics_only,0.577,0.124,0.12,0.592,0.2,0.566,0.59,0.578,0.009
+knn_background_full,0.626,0.156,0.144,0.523,0.226,0.611,0.641,0.626,0.011
+knn_background_+_values,0.658,0.171,0.162,0.53,0.248,0.648,0.669,0.659,0.007
+knn_background_+_values_+_onet,0.647,0.168,0.157,0.518,0.24,0.633,0.66,0.648,0.007
+knn_background_+_fit_gaps,0.64,0.165,0.155,0.488,0.235,0.626,0.653,0.64,0.006
+knn_background_+_job,0.649,0.176,0.154,0.541,0.24,0.636,0.663,0.65,0.007
+knn_background_+_values_+_job,0.677,0.187,0.179,0.512,0.265,0.667,0.687,0.677,0.009
+knn_background_+_job_+_fit_gaps,0.655,0.177,0.165,0.491,0.247,0.644,0.668,0.657,0.007
+knn_UPPER_BOUND_background_+_facet_sat,0.929,0.635,0.466,0.794,0.588,0.925,0.934,0.93,0.004
