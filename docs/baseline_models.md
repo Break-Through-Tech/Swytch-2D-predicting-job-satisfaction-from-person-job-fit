@@ -144,7 +144,7 @@ O\*NET and fit features did not improve KNN on this small group. This does **not
 | Small test group | The 6,849-person test set has only 124 not satisfied people, so results are uncertain |
 | Linking rows back to the clean file | The clean file has no person ID, so rows are matched on 17 columns. Any change in coding could silently break this match |
 | Empty `requirements.txt` | The notebook could not run from a fresh setup, so the needed packages were added |
-| **One data file changed size** | `nscg2023_onet30_2_subset.csv` had 6,849 people until October 31 and now has 74,016 under the same name. Saved results show the older version, but four model notebooks on `main` still read this file. Re-running them may give different results or errors |
+| **The O\*NET subset file changed, then was removed** | `nscg2023_onet30_2_subset.csv` had 6,849 people until October 31, then 74,016 under the same name. On November 18 it was deleted from `main`, and `nscg2023_onet30_2_integration63.csv` is now the only integrated dataset. The saved results in four notebooks (baseline evaluation, both KNN notebooks and logistic regression) still show the 6,849-person version, but those notebooks cannot be re-run until they are pointed to the new file |
 | **Files removed from `main`** | On November 11, `Forest.ipynb` and `folds.csv` were deleted from `main`. `baseline_logreg.ipynb` still reads `folds.csv`, so it cannot be re-run as it is |
 
 ## 9. Brainstorm: Integrating Satisfaction Variables
