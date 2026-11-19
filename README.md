@@ -62,6 +62,24 @@
 
 * Plots, charts, heatmaps, feature visualizations, sample dataset images
 
+## 🧪 Baseline Model Evaluation
+
+The October milestone focuses on a fair baseline comparator that uses only background factors instead of the later person-job fit features. The evaluation script at [baseline_model_evaluation.py](baseline_model_evaluation.py) implements this setup and is designed to keep the crosswalk and occupation-linking work separate from the prediction task itself.
+
+The baseline workflow uses:
+
+- Stratified train/test splits so the satisfied and unsatisfied groups are represented fairly even when they are imbalanced.
+- Metrics that are not fooled by a majority-class baseline: ROC AUC, average precision, balanced accuracy, precision, recall, and F1.
+- A short list of qualitative properties for the model review:
+  1. Predictive accuracy: does the model separate satisfied and unsatisfied workers?
+  2. Satisfaction signal: does it meaningfully capture job-satisfaction variation without simply predicting the majority class?
+  3. Group sensitivity: does performance remain stable across demographic or work-status groups?
+- Models tried in the evaluation: majority-class baseline, logistic regression, random forest, and a gradient-boosted tree model.
+
+This keeps the baseline honest while preserving the later comparison against fit-based features. The script also includes a group-level sensitivity report to check whether satisfaction predictions vary sharply by sex or similar categories.
+
+The script runs on the cleaned NSCG 2023 file (`data/college_grads_2023/nscg2023_clean.csv`, 79,800 employed college graduates). The target is `not_satisfied` (somewhat or very dissatisfied, 9.9%). It uses the same features, split and model settings as [notebooks/Baseline_Model_Evaluation.ipynb](notebooks/Baseline_Model_Evaluation.ipynb), so its output matches `results/baseline_results.csv`. Run it with `python baseline_model_evaluation.py` (about 15 seconds).
+
 ---
 
 ## 🧠 **Model Development**
