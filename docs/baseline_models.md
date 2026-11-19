@@ -2,7 +2,7 @@
 
 **Issue:** #11 (Task #5: Create documentation for baseline models)
 **Milestone:** Baseline Models & Evaluation Setup
-**Status:** Draft
+**Status:** Draft (updated November 18)
 
 This document explains what our team did for the October baseline models, what we found, and what we plan to do next. Every number comes from the notebooks and result files in this repository. Section 11 lists those files.
 
@@ -115,11 +115,13 @@ The KNN baseline of 0.652 is different from the 0.634 in the table because the K
 |---|---|---|---|
 | Baseline evaluation | 6,849 | One test set, full background features | Logistic regression 0.623, random forest 0.624, gradient boosting 0.592 |
 | Logistic regression | 6,849 | Occupations kept separate, fewer features | 0.577 |
-| Random forest | 6,849 | Occupations kept separate, fewer features | 0.586 |
+| Random forest* | 6,849 | Occupations kept separate, fewer features | 0.586 |
 | KNN (full features) | 6,578 | One test set | Baseline 0.626, + work values 0.668, + O\*NET 0.630, + fit 0.634 |
 | KNN (subset file only) | 6,849 | One test set, fewer features | Baseline 0.617, + work values 0.577, + O\*NET 0.562, + fit 0.562 |
 
 These rows use different people, features, or testing methods, so they should not be ranked against each other.
+
+\*The October random forest notebook (`Forest.ipynb`) was removed from `main` on November 11. A new version, `notebooks/Forests.ipynb` on the `Forest-Evaluation` branch (not merged yet), uses all 74,016 people in the expanded data. With background features, it reaches an AUC of 0.627 [0.613, 0.642].
 
 O\*NET and fit features did not improve KNN on this small group. This does **not** prove that fit is unimportant. With only 25 occupations, O\*NET adds little variation, and the small test set makes small changes hard to see. The evaluation notebook estimates that a gain under about 0.05 AUC cannot be detected from one test split.
 
@@ -142,7 +144,8 @@ O\*NET and fit features did not improve KNN on this small group. This does **not
 | Small test group | The 6,849-person test set has only 124 not satisfied people, so results are uncertain |
 | Linking rows back to the clean file | The clean file has no person ID, so rows are matched on 17 columns. Any change in coding could silently break this match |
 | Empty `requirements.txt` | The notebook could not run from a fresh setup, so the needed packages were added |
-| **One data file changed size** | `nscg2023_onet30_2_subset.csv` had 6,849 people until October 31 and now has 74,016 under the same name. Saved results show the older version, but five model notebooks read this file. Logistic regression and random forest also use `folds.csv`, which still has 6,849 rows. Re-running them may give different results or errors |
+| **One data file changed size** | `nscg2023_onet30_2_subset.csv` had 6,849 people until October 31 and now has 74,016 under the same name. Saved results show the older version, but four model notebooks on `main` still read this file. Re-running them may give different results or errors |
+| **Files removed from `main`** | On November 11, `Forest.ipynb` and `folds.csv` were deleted from `main`. `baseline_logreg.ipynb` still reads `folds.csv`, so it cannot be re-run as it is |
 
 ## 9. Brainstorm: Integrating Satisfaction Variables
 
@@ -189,6 +192,6 @@ NSCG asks how satisfied people are with nine parts of their job: advancement, be
 | Linking NSCG to O\*NET | [nscg_onet_data_integration.ipynb](../notebooks/possible%20data%20integration/nscg_onet_data_integration.ipynb) |
 | Full evaluation | [Baseline_Model_Evaluation.ipynb](../notebooks/Baseline_Model_Evaluation.ipynb), [baseline_model_evaluation.py](../baseline_model_evaluation.py) |
 | Logistic regression | [baseline_logreg.ipynb](../notebooks/baseline_logreg.ipynb) |
-| Random forest | [Forest.ipynb](../notebooks/possible%20data%20integration/Forest.ipynb) |
+| Random forest | Removed from `main`. The new version, `notebooks/Forests.ipynb`, is on the `Forest-Evaluation` branch |
 | KNN | [KNN_Job_Satisfaction.ipynb](../notebooks/KNN_Job_Satisfaction.ipynb), [KNN_Job_Satisfaction_subset.ipynb](../notebooks/KNN_Job_Satisfaction_subset.ipynb) |
 | Result tables | [baseline_results.csv](../results/baseline_results.csv), [knn_results.csv](../results/knn_results.csv), [notebooks/baseline_results.csv](../notebooks/baseline_results.csv) |
